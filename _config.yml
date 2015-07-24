@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Andrei Solntsev
+tagline:          Blog
+description:      "Blog"
+url:              https://asolntsev.github.io
+baseurl:          /
+
+author:
+  name:           'Andrei Solntsev'
+  url:            https://twitter.com/asolntsev
+
+paginate:         5
+
+# Custom vars
+version:          1.0
+
+github:
+  repo:           https://github.com/asolntsev/asolntsev.github.io
