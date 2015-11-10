@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
+  <script type="text/javascript">
+    var regex = /\/(\w\w)\/.*/;
+    if (window.location.pathname.match(regex)) {
+      var language = window.location.pathname.replace(regex, "$1") || 'en';
+      localStorage.setItem('language', language);
+    }
+  </script>
+
   {% include head.html %}
 
   <body>

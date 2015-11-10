@@ -1,11 +1,16 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
+
     <div class="sidebar-about">
       <h1>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
         </a>
       </h1>
+      <div id="languages">
+        <a id="lang_eng" href="javascript:switchLanguage('en');">ENG</a>
+        <a id="lang_rus" href="javascript:switchLanguage('ru');">RUS</a>
+      </div>
       <p class="lead">{{ site.description }}</p>
     </div>
 
@@ -32,3 +37,15 @@
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
+
+<script type="application/javascript">
+  function switchLanguage(language) {
+    var regex = /\/(\w\w)(\/.*)/;
+    if (window.location.pathname.match(regex)) {
+      window.location = '/' + language + window.location.pathname.replace(regex, "$2");
+    }
+    else {
+      window.location = '/' + language;
+    }
+  }
+</script> 

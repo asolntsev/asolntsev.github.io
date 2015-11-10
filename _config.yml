@@ -4,7 +4,9 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+#relative_permalinks: true # disabled in jekyll 3.0
+# permalink: /:title/
+# permalink: /:categories/:year/:month/:day/:title.xls
 
 # Setup
 title:            Andrei Solntsev
@@ -17,10 +19,26 @@ author:
   name:           'Andrei Solntsev'
   url:            https://twitter.com/asolntsev
 
-paginate:         5
+#gems:             [jekyll-paginate]
+#paginate:         5
+#paginate_path:    "page:num"
 
 # Custom vars
 version:          1.0
 
 github:
   repo:           https://github.com/asolntsev/asolntsev.github.io
+
+defaults:
+  - 
+    scope:
+      path: _posts/en
+    values:
+      layout: default
+      lang: en
+  - 
+    scope:
+      path: _posts/ru
+    values:
+      layout: default
+      lang: ru
