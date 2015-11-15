@@ -125,7 +125,7 @@ tbody tr:nth-child(odd) th {
 
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 @media (min-width: 58em) {
@@ -186,7 +186,7 @@ tbody tr:nth-child(odd) th {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 14rem;
     text-align: left;
     border-right: dashed;
     border-right-color: #111111;
@@ -203,7 +203,7 @@ tbody tr:nth-child(odd) th {
   color: #caad00;
   margin-top: 0;
   font-family: 'Noto Serif', serif;
-  font-size: 2.25rem;
+  font-size: 1.5rem;
 
 }
 
@@ -253,15 +253,16 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
-    margin-left: 20rem;
+    margin-left: 16rem;
     margin-right: 2rem;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 22rem;
-    margin-right: 4rem;
+    max-width: 100%;
+    margin-left: 16rem;
+    margin-right: 2rem;
   }
 }
 
