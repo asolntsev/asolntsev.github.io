@@ -4,6 +4,8 @@ title: Open source
 category: en
 ---
 
+I am proud to be a member of open-source community. I believe we make the world better by contributing to open-source.
+
 These are my open-source projects I am proud of:
 
 ## [Selenide](selenide.org)

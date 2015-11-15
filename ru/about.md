@@ -6,13 +6,16 @@ category: ru
 
 Привет!
 
-This is Andrei Solntsev's blog about: 
+Я Андрей Солнцев, программист в десятом поколении, автор опен-сорс проекта [Selenide](http://ru.selenide.org) и [других](/open-source.html).
+Также здесь можно найти ссылки на все [мои выступления на конференциях](/video.html).
 
-* software craftsmanship,
-* TDD, 
+В этом блоге я люблю трындеть в основном о программировании:
+
+* мастерство в программировании,
+* TDD (разработка через тесты), 
 * Java,
 * web development, 
 * open-source,
-* conferences.
+* конференции.
 
-Enjoy reading!
+Приятного чтения, и не стесняйтесь комментировать!

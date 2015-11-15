@@ -4,32 +4,38 @@ title: Опен-сорс
 category: ru
 ---
 
+Я горжусь быть членом опен-сорс сообщества.
+Я верю, что мы делаем мир лучше, вкладывая свои силы, время и способности в опен-сорс проекты
+
 Это мои опен-сорс проекты:
 
 ## [Selenide](selenide.org)
 
-a library for writing concice and stable UI tests in Java
+библиотека для стабильных и лаконичных UI тестов на Java
 
 ## [Selenide examples](https://github.com/selenide-examples)
 
-a set of examples of using Selenide for testing different applications
+примеры использования Selenide с разными фреймворками
 
-## [Hangman](https://github.com/selenide-examples/hangman)
+## [Виселица](https://github.com/selenide-examples/hangman)
 
-an ideal reference web application using automated tests, in-memory database for testing and demo, LiquiBase for initializing DB structure etc.
+эталонное веб-приложение, в котором используются автоматические тесты (как юнит-, так и UI-тесты),
+in-memory база данных для тестирования и демо-режима, 
+LiquiBase для инициализации структуры базы данных и т.д.
 
 ## [pdf-test](https://github.com/codeborne/pdf-test)
 
-a library for testing PDF content
+библиотека для тестирования содержимого PDF файлов
 
 ## [xls-test](https://github.com/codeborne/xls-test)
 
-a library for testing XLS content
+библиотека для тестирования содержимого XLS файлов
 
 ## [geo-ip](https://github.com/codeborne/geoip)
 
-Geo IP lookup service
+сервис для поиска адреса по IP адресу
 
 ## [mobile-id](https://github.com/codeborne/mobileid)
 
-Java Mobile-ID interface for Estonia/Lithuania
+интерфейс для использования сервиса Mobile-ID в Java 
+(актуально для Эстонии, Литвы, а теперь, может быть, ещё и Украины и Азербаджана).
