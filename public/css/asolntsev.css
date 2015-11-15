@@ -15,7 +15,8 @@
 }
 
 .post-preview-body {
-  margin-left: 30px;
+  margin: 5px 15px 5px 15px;
+  padding: 20px 5px 5px 20px;
 }
 .post-preview-body h3 {
   display: none;
@@ -23,4 +24,13 @@
 .post-preview-date, .post-date {
   float: right;
   font-size: 0.8rem;
+}
+
+.post-preview:hover .post-preview-title {
+  font-weight: 600;
+}
+
+.post-preview:hover .post-preview-body {
+  background-color: #111111;
+  border-radius: 25px;
 }
