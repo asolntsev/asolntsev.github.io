@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Введение в BlackDoc
+category: ru
 ---
 
 ТУДУ

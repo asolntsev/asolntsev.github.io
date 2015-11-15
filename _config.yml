@@ -3,10 +3,7 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
-#relative_permalinks: true # disabled in jekyll 3.0
-# permalink: /:title/
-# permalink: /:categories/:year/:month/:day/:title.xls
+permalink: /:categories/:year/:month/:day/:title/
 
 # Setup
 title:            Andrei Solntsev
@@ -31,17 +28,3 @@ gems:
 
 github:
   repo:           https://github.com/asolntsev/asolntsev.github.io
-
-defaults:
-  - 
-    scope:
-      path: _posts/en
-    values:
-      layout: default
-      lang: en
-  - 
-    scope:
-      path: _posts/ru
-    values:
-      layout: default
-      lang: ru

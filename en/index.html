@@ -4,11 +4,11 @@ title: Home
 ---
 
 <div class="posts">
-  {% assign posts=site.posts | where:"lang", 'en' %}
+  {% assign posts=site.posts | where:"category", 'en' %}
   <ul>
     {% for post in posts %}
     <li>
-      <a href="{{ post.url }}">[{{ post | prettyprint }} y]</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endfor %}
   </ul>

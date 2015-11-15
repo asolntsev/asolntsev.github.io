@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="posts">
-  {% assign posts=site.posts | where:"lang", 'ru' %}
+  {% assign posts=site.posts | where:"category", 'ru' %}
   <ul>
     {% for post in posts %}
     <li>
