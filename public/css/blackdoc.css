@@ -188,6 +188,8 @@ tbody tr:nth-child(odd) th {
     bottom: 0;
     width: 18rem;
     text-align: left;
+    border-right: dashed;
+    border-right-color: #111111;
   }
 }
 
