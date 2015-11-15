@@ -19,6 +19,12 @@ author:
   name:           'Andrei Solntsev'
   url:            https://twitter.com/asolntsev
 
+gems:
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+- jekyll-feed
+
 #gems:             [jekyll-paginate]
 #paginate:         5
 #paginate_path:    "page:num"
