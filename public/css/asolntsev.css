@@ -1,3 +1,15 @@
 #languages {
   text-align: right;
 }
+
+/*.center {*/
+  /*display: block;*/
+  /*width: 100%;*/
+  /*margin-left: auto;*/
+  /*margin-right: auto;*/
+/*}*/
+
+.post img {
+  margin-left: auto;
+  margin-right: auto;
+}
