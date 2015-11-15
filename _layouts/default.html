@@ -1,32 +1,9 @@
 <!DOCTYPE html>
 <html>
 
-  <script type="text/javascript">
-    var regex = /\/(en|ru)\/.*/;
-    console.log({'window.location.pathname': window.location.pathname});
-    if (window.location.pathname.match(regex)) {
-      var language = window.location.pathname.replace(regex, "$1") || 'en';
-      console.log({'source': 'default.html', 'language.get-from-url': language, 'action': 'set-to-localstorage'});
-      localStorage.setItem('language', language);
-    }
-    else {
-      var language = localStorage.getItem('language') || 'en';
-      console.log({'source': 'default.html', 'language': language, 'action': 'get-from-localstorage'});
-      if (language != 'en' && language != 'ru') {
-        language = 'en';
-        localStorage.removeItem('language');
-        console.log({'source': 'default.html', 'language': language, 'action': 'remove-from-localstorage'});
-      }
-
-      console.log({'source': 'default.html', 'language': language, 'redirect-to': ('/' + language + window.location.pathname)});
-      window.location = '/' + language + window.location.pathname;
-    }
-  </script>
-
   {% include head.html %}
 
   <body>
-
     {% include sidebar.html %}
 
     <div class="content container">
