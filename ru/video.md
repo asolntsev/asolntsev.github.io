@@ -1,9 +1,10 @@
 ---
 layout: page
-title: All my videos
+title: Видео
+category: ru
 ---
 
-Below is a full list of my speeches at conferences and user groups
+А это видео моих выступлений на различных конференциях.
 
 # 2015
 * * *

@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About
+title: Обо мне
+category: ru
 ---
 
-Hi there! 
+Привет!
 
 This is Andrei Solntsev's blog about: 
 

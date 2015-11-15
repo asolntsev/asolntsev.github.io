@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Open source
+title: Опен-сорс
+category: ru
 ---
 
-These are my open-source projects I am proud of:
+Это мои опен-сорс проекты:
 
 ## [Selenide](selenide.org)
 
