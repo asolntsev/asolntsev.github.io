@@ -8,7 +8,7 @@ I am proud to be a member of open-source community. I believe we make the world 
 
 These are my open-source projects I am proud of:
 
-## [Selenide](selenide.org)
+## [Selenide](http://selenide.org)
 
 a library for writing concice and stable UI tests in Java
 
