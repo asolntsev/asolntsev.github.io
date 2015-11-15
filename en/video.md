@@ -1,27 +1,23 @@
 ---
 layout: page
-title: All my videos
+title: My videos
 category: en
 ---
 
-Below is a full list of my speeches at conferences and user groups
+Below is a full list of my talks at conferences and user groups in english.
 
 # 2015
 * * *
 
-* [50 оттенков Play!](https://www.youtube.com/watch?v=kZDa5hD-oQI) - devclub.eu 2015, Tallinn, Estonia
-
-* [Экономически эффективный процесс тестирования](http://2015.codefest.ru/lecture/990) - CodeFest 2015, Novosibirsk, Russia
-  <br>**Best presentation in QA section**
-
-* [Good test = simple test](http://seleniumcamp.com/materials/good-short-test/) - SeleniumCamp 2015, Kiev, Ukraine
-  <br>**Best presentation**
-
-* [Bullshit driven development](http://seleniumcamp.com/materials/bullshit-driven-development/) - SeleniumCamp 2015, Kiev, Ukraine
-
-* [Пацан накодил — пацан протестил!](https://www.youtube.com/watch?v=8u6_hctdhqI&feature=youtu.be&a) - jug.ru 2015, Saint-Petersburg, Russia
+* [Selenide @ Devoxx](http://selenide.org/2015/11/13/selenide-on-devoxx/) - Devoxx 2015, Antwerp, Belgium
+* [Selenide @ SeleniumConf](http://selenide.org/2015/09/23/selenide-on-seleniumconf/) - SeleniumConf 2015, Portland, USA
 
 # 2014
 * * *
 
-* [Как получить чёрный пояс по программированию](https://www.youtube.com/watch?v=qBXgYDav40g) - devclub.eu 2014, Tallinn
+* [Selenide – library for UI Testing in Java](http://www.devclub.lv/andrei-solntsev-selenide-library-for-ui-testing-in-java/) - devclub.lv, Riga, Latvia
+
+# 2012
+* * *
+
+* [Church of St.Agile](http://www.devclub.lv/church-of-st-agile-andrei-solntsev/) - devclub.lv, Riga, Latvia
