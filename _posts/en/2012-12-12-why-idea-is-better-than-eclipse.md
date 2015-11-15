@@ -7,7 +7,9 @@ title: Why IDEA is better than Eclipse
 ### Holy war
 
 There are "eternal" questions that have no single correct answer. E.g. what is better: Windows or Linux, Java or C#; who is stronger, Chuck Norris or Van Damme.
-One of such holywars is selection of the best Java IDE:
+One of such holywars is selection of the best Java IDE.
+
+<!--more-->
  
 ![Eclipse vs IDEA](/public/img/eclipse_vs_idea_eng.png)
 

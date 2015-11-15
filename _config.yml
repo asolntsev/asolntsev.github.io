@@ -28,3 +28,5 @@ gems:
 
 github:
   repo:           https://github.com/asolntsev/asolntsev.github.io
+
+excerpt_separator: "<!--more-->"

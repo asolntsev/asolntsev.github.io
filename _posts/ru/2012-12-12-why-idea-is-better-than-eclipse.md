@@ -8,7 +8,9 @@ title: Почему IDEA лучше Eclipse
 
 Принято считать, что есть «вечные» вопросы, на которые нет правильного ответа. Например, что лучше: Windows или Linux, Java или C#; Чужой против Хищника или Чак Норрис против Ван Дамма. 
 
-Одним из таких [холиваров](http://lurkmore.to/%D0%A5%D0%BE%D0%BB%D0%B8%D0%B2%D0%B0%D1%80/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%85%D0%BE%D0%BB%D0%B8%D0%B2%D0%B0%D1%80%D0%BE%D0%B2) считается выбор лучшей IDE для Java: 
+Одним из таких [холиваров](http://lurkmore.to/%D0%A5%D0%BE%D0%BB%D0%B8%D0%B2%D0%B0%D1%80/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%85%D0%BE%D0%BB%D0%B8%D0%B2%D0%B0%D1%80%D0%BE%D0%B2) считается выбор лучшей IDE для Java.
+ 
+<!--more-->
  
 ![Eclipse vs IDEA](/public/img/eclipse_vs_idea_eng.png)
 
