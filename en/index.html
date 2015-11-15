@@ -6,14 +6,13 @@ category: en
 
 <div class="posts">
   {% assign posts=site.posts | where:"category", 'en' %}
-  <ul>
-    {% for post in posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-    {% endfor %}
-  </ul>
+  {% for post in posts %}
+  <div class="post-preview">
+    <a class="post-preview-title" href="{{ post.url }}">{{ post.title }}</a>
+    <div class="post-preview-date">{{ post.date | date: "%m.%d.%Y" }}</div>
+    <div class="post-preview-body">{{ post.excerpt }}</div>
+  </div>
+  {% endfor %}
 </div>
 
 <!--
