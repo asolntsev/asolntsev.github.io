@@ -9,6 +9,8 @@ category: ru
 # 2015
 * * *
 
+* [Передача "ТВой вечер"](http://asolntsev.livejournal.com/77094.html) - ETV+, 2015, Таллинн, Эстония
+
 * [50 оттенков Play!](https://www.youtube.com/watch?v=kZDa5hD-oQI) - devclub.eu 2015, Таллинн, Эстония
 
 * [Экономически эффективный процесс тестирования](http://2015.codefest.ru/lecture/990) - CodeFest 2015, Новосибирск, Россия
