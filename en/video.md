@@ -20,4 +20,5 @@ Below is a full list of my talks at conferences and user groups in english.
 # 2012
 * * *
 
-* [Church of St.Agile](http://www.devclub.lv/church-of-st-agile-andrei-solntsev/) - devclub.lv, Riga, Latvia
+* [Church of St.Agile](https://vimeo.com/46302028) - 19.07.2012, devclub.lv, Рига
+  * _"Church of agile" labaka prezentacija! :D Paldies_
