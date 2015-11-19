@@ -8,7 +8,7 @@ category: en
   {% assign posts=site.posts | where:"category", 'en' %}
   {% for post in posts %}
   <div class="post-preview">
-    <a class="post-preview-title" href="{{ post.url }}">{{ post.title }}</a>
+    <a class="post-preview-title" href="{{ post.url }}#disqus_thread">{{ post.title }}</a>
     <div class="post-preview-date">{{ post.date | date: "%m.%d.%Y" }}</div>
     <div class="post-preview-body">{{ post.excerpt }}</div>
   </div>
@@ -33,3 +33,5 @@ category: en
   {% endif %}
 </div>
 -->
+
+<script id="dsq-count-scr" src="//asolntsev.disqus.com/count.js" async></script>
