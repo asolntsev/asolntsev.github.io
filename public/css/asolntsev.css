@@ -39,7 +39,7 @@
 .post-preview-body h3 {
   display: none;
 }
-.post-preview-date, .post-date {
+.post-preview-date, .post-date, .disqus-comment-count {
   float: right;
   font-size: 0.8rem;
 }
