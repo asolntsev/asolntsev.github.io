@@ -20,18 +20,14 @@
   border-radius: 2px;
 }
 
-/*.center {*/
-  /*display: block;*/
-  /*width: 100%;*/
-  /*margin-left: auto;*/
-  /*margin-right: auto;*/
-/*}*/
-
 .post img {
   margin-left: auto;
   margin-right: auto;
 }
 
+.post-preview {
+  position: relative;
+}
 .post-preview-body {
   margin: 5px 15px 5px 15px;
   padding: 20px 5px 5px 20px;
@@ -42,6 +38,13 @@
 .post-preview-date, .post-date, .disqus-comment-count {
   float: right;
   font-size: 0.8rem;
+}
+.disqus-comment-count {
+  position: absolute;
+  top: 0;
+  right: 6rem;
+  width: 180px;
+  text-align: right;
 }
 
 .post-preview:hover .post-preview-title {
