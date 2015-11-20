@@ -49,19 +49,23 @@
   float: right;
   font-size: 0.8rem;
 }
-.disqus-comment-count {
-  position: absolute;
-  top: 0;
-  right: 6rem;
-  width: 180px;
-  text-align: right;
-}
-
 .post-preview:hover .post-preview-title {
   font-weight: 600;
 }
-
 .post-preview:hover .post-preview-body {
   background-color: #111111;
   border-radius: 25px;
+}
+.disqus-comment-count {
+  display: none;
+}
+@media (min-width: 58em) {
+  .disqus-comment-count {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 6rem;
+    width: 180px;
+    text-align: right;
+  }
 }
