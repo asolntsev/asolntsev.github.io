@@ -245,16 +245,13 @@ a.sidebar-nav-item:focus {
  * with a 25%-wide `.sidebar`.
  */
 
-.content {
-  padding-top:    4rem;
-  padding-bottom: 4rem;
-}
-
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
     margin-left: 16rem;
     margin-right: 2rem;
+    padding-top:    4rem;
+    padding-bottom: 4rem;
   }
 }
 
