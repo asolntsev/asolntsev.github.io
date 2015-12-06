@@ -66,7 +66,7 @@ category: ru
 * * *
 
 * [Behavior Driven Development](http://www.devclub.eu/2010/10/31/asolntsev-bdd/) - ноябрь 2010, devclub.eu, Таллинн
-* [WTF Code](https://www.youtube.com/watch?v=tRIQhRC5_vc) - 26.05.2010, devclub.eu, Таллинн
+* [WTF Code](https://www.youtube.com/watch?v=9ozWTKRasv8) - 26.05.2010, devclub.eu, Таллинн
   * доклад №3 девклуба за 2010 год
 
 # 2009
