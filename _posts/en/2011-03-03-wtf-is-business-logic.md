@@ -33,8 +33,7 @@ Let's consider class Account for example.
 Once upon a time Internet connection disappeared from our office for two hours. I actually could not work because SVN, jira, dabase etc. were not available. And I decided to exercise in writing unit-tests. So I found class Account:
 
 ```java
-public class Account
-{
+public class Account {
   // Negative amount means that account is prepaid
   private BigDecimal amount;
   public BigDecimal getAmount() {
@@ -58,8 +57,7 @@ then this "debt" is negative. Well, this is some knowledge about the code. Let's
 [convert this comment to unit-test](http://asolntsev.blogspot.com.ee/2010/05/why-devil-invented-javadoc.html):
 
 ```java
-public class AccountTest
-{
+public class AccountTest {
   @Test
   public void negativeAmountMeansThatAccountIsPrepaid() {
     Account prepaidAccount = new Account(-123);
@@ -82,8 +80,7 @@ public void positiveAmountMeansThatAccountIsInDebt() {
 We have eventually got two new methods isPrepaid and isInDebt, which implementation is of course straightforward for you:
 
 ```java
-public class Account
-{
+public class Account {
   private BigDecimal amount;
   public boolean isInDebt() {
     return amount > 0;

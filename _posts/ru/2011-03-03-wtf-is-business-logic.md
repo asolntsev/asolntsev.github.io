@@ -30,8 +30,7 @@ title: Где спряталась логика?
 Было это так. В один прекрасный день у нас в офисе отрубился интернет на пару часов. Работать я фактически не мог — ну там, svn, jira, база знаний и прочее не были доступны. И решил я в качестве упражнения написать юнит-тест для какого-нибудь класса. И наткнулся на `Account`:
 
 ```java
-public class Account
-{
+public class Account {
   // Негативное значение означает, что счёт предоплачен
   private BigDecimal amount;
   public BigDecimal getAmount() {
@@ -52,8 +51,7 @@ public class Account
 [превратить этот комментарий в юнит-тест](http://habrahabr.ru/blogs/tdd/97320/):
 
 ```java
-public class AccountTest
-{
+public class AccountTest {
   @Test
   public void negativeAmountMeansThatAccountIsPrepaid() {
     Account prepaidAccount = new Account(-123);
@@ -76,8 +74,7 @@ public void positiveAmountMeansThatAccountIsInDebt() {
 Вот так ненароком у нас возникло два новых метода `isPrepaid()` и `isInDebt()`, реализация которых, конечно, очевидна:
 
 ```java
-public class Account
-{
+public class Account {
   private BigDecimal amount;
   public boolean isInDebt() {
     return amount > 0;
