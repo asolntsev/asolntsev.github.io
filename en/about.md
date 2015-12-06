@@ -2,6 +2,7 @@
 layout: page
 title: About
 category: en
+class: about
 ---
 
 Hi there! 
@@ -20,3 +21,5 @@ This blog is mainly about:
 * conferences.
 
 Enjoy reading, and feel free to comment!
+
+{% include links.html %}

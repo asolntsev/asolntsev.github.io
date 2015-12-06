@@ -8,8 +8,8 @@
         </a>
       </h1>
       <div id="languages">
-        <a id="lang_eng" href="javascript:switchLanguage('en');">ENG</a>
-        <a id="lang_rus" href="javascript:switchLanguage('ru');">RUS</a>
+        <a href="javascript:switchLanguage('en');">ENG</a>
+        <a href="javascript:switchLanguage('ru');">RUS</a>
       </div>
     </div>
 
@@ -29,29 +29,16 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-
-      <hr class="links">
-
-      <div class="links">
-        <a href="http://asolntsev.livejournal.com">LiveJournal</a>
-        <a href="https://www.facebook.com/asolntsev/">Facebook</a>
-      </div>
-      <div class="links">
-        <a href="http://twitter.com/asolntsev">Twitter</a>
-        <a href="http://habrahabr.ru/users/asolntsev/topics/">Habrahabr</a>
-      </div>
-      <div class="links">
-        <a href="http://linkedin.com/in/asolntsev/">LinkedIn</a>
-        <a href="https://www.instagram.com/andrei.solntsev/">Instagram</a>
-      </div>
-      <div class="links">
-        <a href="https://plus.google.com/u/0/+AndreiSolntsev/posts">Google+</a>
-      </div>
-
-      <hr class="links">
     </nav>
 
-    <p class="links">&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <div class="tagline">
+      <img class="tagline-image" src="/public/img/Star Wars Yoda Head-64x64"/>
+      <i class="tagline-text">Complexity is the path to the dark side</i>
+    </div>
+
+    <div class="bottom-links">
+      <a href="/atom.xml"><img src="/public/img/RSS-32x32"/></a>
+    </div>
   </div>
 </div>
 

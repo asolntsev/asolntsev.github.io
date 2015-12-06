@@ -1,33 +1,103 @@
-#languages {
-  text-align: right;
-}
-
-.sidebar .links {
+.sidebar .bottom-links, .sidebar .tagline, .disqus-comment-count {
   display: none;
 }
 
+#languages {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+#languages a {
+  padding: 0 0.5rem 0 0.5rem;
+  border-right: 1px solid #848482;
+}
+#languages a:last-child {
+  border-right: none;
+}
+
+@media (max-width: 48em) {
+  .sidebar .sidebar-nav-item {
+    display: inline-block;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+  }
+  .sidebar .sidebar-nav-item:hover {
+    background-color: #111111;
+  }
+}
+@media (min-width: 48em) {
+  /*#languages {*/
+    /*text-align: right;*/
+  /*}*/
+  .sidebar .tagline, .disqus-comment-count {
+    display: block;
+  }
+  .sidebar .tagline {
+    margin-top: 50px;
+  }
+  .sidebar .tagline-image {
+    float: right;
+  }
+  .sidebar .tagline-text {
+    quotes: "\201C""\201D""\2018""\2019";
+  }
+  .sidebar .tagline-text:before, .sidebar .tagline-text:after {
+    font-size: 2em;
+    line-height: 0.1em;
+    margin-right: 0.1em;
+    vertical-align: -0.4em;
+  }
+  .sidebar .tagline-text:before {
+    content: open-quote;
+  }
+  .sidebar .tagline-text:after {
+    content: close-quote;
+  }
+}
+
 @media (min-width: 58em) {
-  .sidebar .links {
+  .sidebar .bottom-links {
     display: block;
   }
   
-  .sidebar .links a {
-    color: #848482;
-    font-size: 0.6rem;
-    display: inline-block;
-    width: 80px;
-    padding: 1px 5px 1px 5px;
-    border-right: 1px solid #848482;
+  .sidebar .bottom-links {
+    position: fixed;
+    bottom: 0;
   }
   
-  .sidebar .links a:last-child {
-    border-right: none;
+  .disqus-comment-count {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 6rem;
+    width: 180px;
+    text-align: right;
   }
-  
-  .sidebar .links a:hover {
-    background-color: #555555;
-    border-radius: 2px;
+}
+
+@media (min-height: 42em) {
+  .page.about .my-links {
+    position: fixed;
+    bottom: 0;
   }
+}
+
+.page.about .links a {
+  color: #848482;
+  font-size: 0.6rem;
+  display: inline-block;
+  width: 80px;
+  padding: 1px 5px 1px 5px;
+  border-right: 1px solid #848482;
+}
+
+.page.about .links a:last-child {
+  border-right: none;
+}
+
+.page.about .links a:hover {
+  background-color: #555555;
+  border-radius: 2px;
 }
 
 .post img {
@@ -55,17 +125,4 @@
 .post-preview:hover .post-preview-body {
   background-color: #111111;
   border-radius: 25px;
-}
-.disqus-comment-count {
-  display: none;
-}
-@media (min-width: 58em) {
-  .disqus-comment-count {
-    display: block;
-    position: absolute;
-    top: 0;
-    right: 6rem;
-    width: 180px;
-    text-align: right;
-  }
 }

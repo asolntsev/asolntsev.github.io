@@ -2,6 +2,7 @@
 layout: page
 title: Обо мне
 category: ru
+class: about
 ---
 
 Привет!
@@ -19,3 +20,5 @@ category: ru
 * конференции.
 
 Приятного чтения, и не стесняйтесь комментировать!
+
+{% include links.html %}
