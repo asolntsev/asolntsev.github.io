@@ -17,7 +17,6 @@ author:
   url:            https://twitter.com/asolntsev
 
 gems:
-- jekyll-mentions
 - jekyll-redirect-from
 - jekyll-sitemap
 - jekyll-feed
