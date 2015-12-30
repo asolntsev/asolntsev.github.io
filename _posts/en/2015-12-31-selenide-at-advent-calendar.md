@@ -15,6 +15,8 @@ I want to show you such a miracle.
 
 It's called _automated tests_!
 
+<!--more-->
+
 ### Ugh, tests?
 
 Yes. 
