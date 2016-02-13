@@ -6,6 +6,12 @@ category: ru
 
 А это видео моих выступлений на различных конференциях.
 
+# 2016
+* * *
+
+* [Перформансные войны](https://jugru.timepad.ru/event/282604/) - jug.ru, Питер, 21.01.2016 
+| [видео](https://www.youtube.com/watch?v=2J6iJLYZZUM) | [фотки](https://vk.com/jugru?z=album-35491074_227446923)
+
 # 2015
 * * *
 
