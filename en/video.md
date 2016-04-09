@@ -4,7 +4,7 @@ title: My videos
 category: en
 ---
 
-Below is a full list of my talks at conferences and user groups in english.
+Below is a full list of my talks at conferences and user groups _in english_.
 
 # 2015
 * * *
