@@ -36,6 +36,8 @@ category: ru
 * [Баттл за автотесты](http://www.devclub.eu/2014/10/05/video-battle-autotests/) - сентябрь 2014, devclub.eu, Таллинн
 * [Про агильную разработку базы данных](https://www.youtube.com/watch?v=A3XoEp_3V88) - май 2014, devclub.eu, Таллинн
 * [Обмену подлежит](https://www.youtube.com/watch?v=UL8xGs6DjNo) - TEDxLasnamae 2014, Таллинн 
+* [Selenide: from developers with love](http://seleniumcamp.com/archive/selenium-camp-2014/materials/selenide/) - SeleniumCamp 2014, Киев, Украина
+* [The fast and the continuous](http://seleniumcamp.com/archive/selenium-camp-2014/materials/the-fast-and-continuous/) | [видео](https://www.youtube.com/watch?v=BYr-HNus90I&list=PL4Xdj6CMk6HRXMORodq9QNK-UjSkkiypL) - SeleniumCamp 2014, Киев, Украина
 
 # 2013
 * * *
