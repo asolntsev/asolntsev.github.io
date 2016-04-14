@@ -124,7 +124,10 @@ public void GenderTest {
   }
 
   @Test public void test2() {
-    Employee employee = new Employee(e -> {e.birthDate = dateX; e.birthPlace = "PlaceX";});
+    Employee employee = new Employee(e -> {
+      e.birthDate = dateX; 
+      e.birthPlace = "PlaceX";
+    });
   }
 ```
 
