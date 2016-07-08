@@ -83,11 +83,13 @@ birthday.sendKeys("19.03.1955");
 В пэдж объекте должно быть не поле `birthday`, а **метод**
 
 ```java
-public void enterBirthday(String birthday) {
+public class RegistrationPage {
+  public void enterBirthday(String birthday) {
   
-  $(By.name("birthday")).sendKeys(birthday);
+    $(By.name("birthday")).sendKeys(birthday);
   
-  // а потом - вся логика календаря здесь
+    // а потом - вся логика календаря здесь
+  }
 }
 ```
 
