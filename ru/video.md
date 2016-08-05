@@ -37,7 +37,7 @@ category: ru
 * [Про агильную разработку базы данных](https://www.youtube.com/watch?v=A3XoEp_3V88) - май 2014, devclub.eu, Таллинн
 * [Обмену подлежит](https://www.youtube.com/watch?v=UL8xGs6DjNo) - TEDxLasnamae 2014, Таллинн 
 * [Selenide: from developers with love](http://seleniumcamp.com/archive/selenium-camp-2014/materials/selenide/) - SeleniumCamp 2014, Киев, Украина
-* [The fast and the continuous](http://seleniumcamp.com/archive/selenium-camp-2014/materials/the-fast-and-continuous/) | [видео](https://www.youtube.com/watch?v=BYr-HNus90I&list=PL4Xdj6CMk6HRXMORodq9QNK-UjSkkiypL) - SeleniumCamp 2014, Киев, Украина
+* [The fast and the continuous](http://seleniumcamp.com/archive/selenium-camp-2014/materials/the-fast-and-continuous/) + [видео](https://www.youtube.com/watch?v=BYr-HNus90I&list=PL4Xdj6CMk6HRXMORodq9QNK-UjSkkiypL) - SeleniumCamp 2014, Киев, Украина
 
 # 2013
 * * *
@@ -57,7 +57,7 @@ category: ru
 * * *
 
 * [Thank it forward](http://www.devclub.eu/2012/12/28/thanx-1202012/) - 28.12.2012 devclub.eu, Таллинн
-  * Я лично думаю, что это моё лучшее выступление за всё время
+  * Я думаю, что это моё лучшее выступление за всё время
 * [WTF Architecture](https://www.lektorium.tv/lecture/14171) - 20.12.2012, CodeFreeze, Санкт-Петербург
 * [WTF Code](https://www.lektorium.tv/lecture/14170?id=14170) - 20.12.2012, CodeFreeze, Санкт-Петербург
 * [The fast and the continuous](https://vimeo.com/57357802) - 19.12.2012, devclub.ru, Санкт-Петербург
