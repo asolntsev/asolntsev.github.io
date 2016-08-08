@@ -46,10 +46,44 @@
   function switchLanguage(language) {
     var regex = /\/(en|ru)(\/.*)/;
     if (window.location.pathname.match(regex)) {
-      window.location = '/' + language + window.location.pathname.replace(regex, "$2");
+      openPageIfAvailable('/' + language + window.location.pathname.replace(regex, "$2"), language);
     }
     else {
       window.location = '/' + language;
     }
+  }
+
+  function suggestGoogleTranslate(language) {
+    $('#page-not-found').remove();
+    $('.post-title').prepend('<div id="page-not-found"><h4></h4><span id="google_translate_element"></span></div>');
+
+    $('#page-not-found h4').text('ru' == language ? 
+            'Страница ещё не переведена на русский язык. Попробуйте Google Translate.' :
+            'Page is not translated to English yet. Try Google Translate.');
+
+    $.getScript('//translate.google.com/translate_a/element.js?cb=loadGoogleTranslateWidget');
+  }
+  
+  function loadGoogleTranslateWidget() {
+    new google.translate.TranslateElement({
+              pageLanguage: 'ru',
+              layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL,
+              autoDisplay: false,
+              multilanguagePage: true,
+              gaTrack: true, gaId: 'UA-70355317-1'},
+            'google_translate_element');
+    $('#languages').css('margin-top', '12px');
+    $('.sidebar').css('margin-top', '30px');
+  }
+
+  function openPageIfAvailable(url, language) {
+    $.ajax(url, {
+      type: 'GET',
+      statusCode: {
+        404: function() {suggestGoogleTranslate(language);}
+      }, success: function () {
+        window.location = url;
+      }
+    });
   }
 </script> 

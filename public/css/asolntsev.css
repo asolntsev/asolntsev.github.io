@@ -26,9 +26,6 @@
   }
 }
 @media (min-width: 48em) {
-  /*#languages {*/
-    /*text-align: right;*/
-  /*}*/
   .sidebar .tagline, .disqus-comment-count {
     display: block;
   }
@@ -125,4 +122,10 @@
 .post-preview:hover .post-preview-body {
   background-color: #111111;
   border-radius: 25px;
+}
+#page-not-found {
+  border-bottom: dashed;
+  border-bottom-color: #111111;
+  text-align: right;
+  width: 100%;
 }
