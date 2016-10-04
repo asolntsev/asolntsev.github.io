@@ -41,7 +41,7 @@ Disappointed with
 * dynamic Python that fails with any upgrade;
 * annoying keyword `self.` that you must write in Python before every method call;
 * Ruby that can be broken by single random comment line in single random dependency; 
-* endless night debugging sessions with unbelievably crazy Play framework bugs, 
+* endless night debugging sessions with [unbelievably crazy Play framework bugs](https://www.youtube.com/watch?v=Wi3uLRlOWeU), 
 
 I started to look for something stable.
 
