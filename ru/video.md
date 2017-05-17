@@ -9,7 +9,8 @@ category: ru
 # 2017
 * * *
 
-* [Передача "ТВой вечер"](http://asolntsev.livejournal.com/78663.html) - Эстонское телевидение ETV+, 2017, Таллинн, Эстония
+* [No Wanna No Cry](http://asolntsev.livejournal.com/78663.html) - Передача "ТВой вечер", 
+ Эстонское телевидение ETV+, 2017, Таллинн, Эстония
 
 # 2016
 * * *
@@ -24,7 +25,7 @@ category: ru
 * [Selenide @ Devoxx](http://selenide.org/2015/11/13/selenide-on-devoxx) - Devoxx 2015, Антверпен, Бельгия
 * [50 оттенков Play!](https://www.youtube.com/watch?v=Wi3uLRlOWeU) - 17.10.2015, конференция Joker, Санкт-Петербург, Россия
 * [Ping-pong programming](https://www.youtube.com/watch?v=NOrvkC4a_KU) - 16.10.2015, конференция Joker, Санкт-Петербург, Россия
-* [Передача "ТВой вечер"](http://asolntsev.livejournal.com/77094.html) - Эстонское телевидение ETV+, 2015, Таллинн, Эстония
+* [Почему не надо становиться программистом](http://asolntsev.livejournal.com/77094.html) - Передача "ТВой вечер", Эстонское телевидение ETV+, 2015, Таллинн, Эстония
 * [Selenide @ SeleniumConf](http://selenide.org/2015/09/23/selenide-on-seleniumconf) - сентябрь 2015, SeleniumConf, Портленд, США
 * [50 оттенков Play!](https://www.youtube.com/watch?v=kZDa5hD-oQI) - devclub.eu, май 2015, Таллинн, Эстония
 * [Экономически эффективный процесс тестирования](http://2015.codefest.ru/lecture/990) - CodeFest 2015, Новосибирск, Россия
