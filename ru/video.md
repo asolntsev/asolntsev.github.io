@@ -9,6 +9,8 @@ category: ru
 # 2017
 * * *
 
+* [Об уязвимости ID-карт](http://rus.err.ee/616866/programmist-ob-ujazvimosti-id-kart-verojatnost-popast-pod-mashinu-gorazdo-vyshe) - "Актуальная камера", 
+ Эстонское телевидение ETV+, 5.09.2017, Таллинн, Эстония
 * [No Wanna No Cry](http://asolntsev.livejournal.com/78663.html) - Передача "ТВой вечер", 
  Эстонское телевидение ETV+, 2017, Таллинн, Эстония
 
