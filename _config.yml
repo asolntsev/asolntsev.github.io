@@ -15,7 +15,7 @@ author:
   name:           'Andrei Solntsev'
   url:            https://twitter.com/asolntsev
 
-gems:
+plugins:
 - jekyll-redirect-from
 - jekyll-sitemap
 - jekyll-feed
