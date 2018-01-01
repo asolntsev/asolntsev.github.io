@@ -11,6 +11,8 @@ category: ru
 
 * [Flaky tests](https://www.youtube.com/watch?v=jLG3RXECQU8) - конференция [Гейзенбаг, Москва, 9.12.2017](https://heisenbug-moscow.ru/#schedule)
   * №2 в ТОП лучших докладов конференции 
+* [Flaky tests](https://www.youtube.com/watch?v=y5TqMKdzmlk) - таллиннский [Devclub, 29.11.2017]
+  * №6 в ТОП лучших докладов года devclub.eu 
 * [Секреты Selenide](https://www.youtube.com/watch?v=s_Sbs483SXs) - Выступление на [ламповом митапе PropellerAds](http://automated-testing.info/t/mitap-po-avtomatizaczii-testirovaniya-v-sankt-peterburge/17241/8), Санкт-Петербург, 15.11.2017 
 * [Об уязвимости ID-карт](http://rus.err.ee/616866/programmist-ob-ujazvimosti-id-kart-verojatnost-popast-pod-mashinu-gorazdo-vyshe) - "Актуальная камера", 
  Эстонское телевидение ETV+, 5.09.2017, Таллинн, Эстония
