@@ -6,6 +6,11 @@ category: ru
 
 А это видео моих выступлений на различных конференциях.
 
+# 2018
+* * *
+
+* [Мужик накодил - мужик протестил!](https://www.youtube.com/watch?v=ZJw6iZQQJWs) - [митап PropellerAds](http://automated-testing.info/t/mitap-po-avtomatizaczii-testirovaniya-v-sankt-peterburge/17241/13), Санкт-Петербург, 07.02.2018
+
 # 2017
 * * *
 
