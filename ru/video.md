@@ -9,6 +9,8 @@ category: ru
 # 2018
 * * *
 
+* [Flaky tests](https://www.youtube.com/watch?v=zOiSo1hYjF8) - Доклад №1 конференции [SeleniumCamp](https://xpinjection.com/articles/selenium-camp-2018-review-and-top-talks/), Киев, 02.03.2018
+* [Arrange, mazafaka!](https://www.youtube.com/watch?v=ePvrXUCeAr8) - Доклад №9 конференции [SeleniumCamp](https://xpinjection.com/articles/selenium-camp-2018-review-and-top-talks/), Киев, 03.03.2018
 * [Мужик накодил - мужик протестил!](https://www.youtube.com/watch?v=ZJw6iZQQJWs) - [митап PropellerAds](http://automated-testing.info/t/mitap-po-avtomatizaczii-testirovaniya-v-sankt-peterburge/17241/13), Санкт-Петербург, 07.02.2018
 
 # 2017
