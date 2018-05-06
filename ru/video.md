@@ -16,9 +16,10 @@ category: ru
 # 2017
 * * *
 
+* [Selenide Puzzlers](https://www.youtube.com/watch?v=LQSrhmzXpHM) - devclub.eu, Таллинн, 29.12.2017 
 * [Flaky tests](https://www.youtube.com/watch?v=jLG3RXECQU8) - конференция [Гейзенбаг, Москва, 9.12.2017](https://heisenbug-moscow.ru/#schedule)
   * №2 в ТОП лучших докладов конференции 
-* [Flaky tests](https://www.youtube.com/watch?v=y5TqMKdzmlk) - таллиннский [Devclub, 29.11.2017]
+* [Flaky tests](https://www.youtube.com/watch?v=y5TqMKdzmlk) - devclub.eu, Таллинн, 29.11.2017
   * №6 в ТОП лучших докладов года devclub.eu 
 * [Секреты Selenide](https://www.youtube.com/watch?v=s_Sbs483SXs) - Выступление на [ламповом митапе PropellerAds](http://automated-testing.info/t/mitap-po-avtomatizaczii-testirovaniya-v-sankt-peterburge/17241/8), Санкт-Петербург, 15.11.2017 
 * [Об уязвимости ID-карт](http://rus.err.ee/616866/programmist-ob-ujazvimosti-id-kart-verojatnost-popast-pod-mashinu-gorazdo-vyshe) - "Актуальная камера", 
@@ -54,6 +55,7 @@ category: ru
 * * *
 
 * [Как получить чёрный пояс по программированию](https://www.youtube.com/watch?v=qBXgYDav40g) - devclub.eu, Таллинн
+* [The fast and the continuous](https://www.youtube.com/watch?v=bXlK680E3zQ) - 14-15 ноября 2014, SQA Days-16, Санкт-Петербург
 * [Баттл за автотесты](http://www.devclub.eu/2014/10/05/video-battle-autotests/) - сентябрь 2014, devclub.eu, Таллинн
 * [Про агильную разработку базы данных](https://www.youtube.com/watch?v=A3XoEp_3V88) - май 2014, devclub.eu, Таллинн
 * [Обмену подлежит](https://www.youtube.com/watch?v=UL8xGs6DjNo) - TEDxLasnamae 2014, Таллинн 
