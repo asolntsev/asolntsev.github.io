@@ -6,6 +6,12 @@ category: en
 
 Below is a full list of my talks at conferences and user groups _in english_.
 
+# 2018
+* * *
+
+* [Selenide: fall in love after 15 slides](https://www.youtube.com/watch?v=o6AEfW39f0Y) - [GeeCon](https://2018.geecon.org/schedule-day3/), Krakow, 11.05.2018
+  ([slides](https://docs.google.com/presentation/d/1kuzqR8JGnVKIs2r0Bm83LdOfbZkSkoR93f1c8wd26ns/edit?usp=sharing))
+
 # 2016
 * * *
 
