@@ -9,8 +9,11 @@ category: ru
 # 2018
 * * *
 
-* Комментарий газете Столица [про эстонскую политику](http://stolitsa.ee/225702) 
 * Текстовая расшифровка моего доклада на хабре: [Flaky tests](https://habr.com/company/jugru/blog/416757/)
+* Комментарий газете Столица [про эстонскую политику](http://stolitsa.ee/225702) 
+* Комментарий порталу Спутник [про смену криптографических ключей](https://ee.sputniknews.ru/society/20180919/12762827/saity-estonia-zavisnutj-globaljnogo-obnovlenija-kriptokljuchej.html) 
+* Комментарий порталу Спутник [про массовую утечку личных данных детей](https://ee.sputniknews.ru/society/20181019/13305512/utechke-lichnyh-dannyh-detej.html) 
+* Комментарий порталу Спутник [про вирусные атаки в интернете](https://ee.sputniknews.ru/incidents/20180417/10243659/virusnaja-ataka-facebook-sovety-zashita.html) 
 
 # 2017
 * * *
