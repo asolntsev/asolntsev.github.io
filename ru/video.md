@@ -9,6 +9,7 @@ category: ru
 # 2018
 * * *
 
+* [Чем различаются интернет-банк физиков и юриков](https://www.youtube.com/watch?v=BB-HCwQZj8Y) - devclub.eu, Таллинн, 28.11.2018 ([слайды](https://docs.google.com/presentation/d/16DnsGBWMkSwKX1wgOA-NMkIcUv563PcYKeKq-1vvWlM/edit?usp=sharing))
 * [WTF Connection Pools](https://www.youtube.com/watch?v=xiBd5kTOoYo) - devclub.eu, Таллинн, 27.09.2018 ([слайды](https://docs.google.com/presentation/d/1y_fWAjIfzJXo5K3U1rnEjD7mz792ScMcJb-NeLLBKfU/edit?usp=sharing))
 * [WTF Security](https://www.youtube.com/watch?v=z-aEjd22BGU) - devclub.eu, Таллинн, 30.05.2018 ([слайды](https://docs.google.com/presentation/d/1wdqFRWdNRJxvr5HKubqlnDIiQbTALKORMDOJovrH_tU/edit?usp=sharing))
 * [Selenide: fall in love after 15 slides](https://www.youtube.com/watch?v=o6AEfW39f0Y) - [GeeCon](https://2018.geecon.org/schedule-day3/), Краков, 11.05.2018 ([слайды](https://docs.google.com/presentation/d/1kuzqR8JGnVKIs2r0Bm83LdOfbZkSkoR93f1c8wd26ns/edit?usp=sharing))
