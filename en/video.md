@@ -4,7 +4,7 @@ title: My videos
 category: en
 ---
 
-Below is a full list of my talks at conferences and user groups _in english_.
+Below is a full list of my talks at conferences and user groups _in english_. There is much more [videos in russian](/ru/video/).
 
 # 2018
 * * *

@@ -9,6 +9,7 @@ category: ru
 # 2018
 * * *
 
+* Статья в Java Advent Calendar: [WTF Connection Pools](https://www.javaadvent.com/2018/12/wtf-connection-pools.html)
 * Текстовая расшифровка моего доклада на хабре: [Flaky tests](https://habr.com/company/jugru/blog/416757/)
 * Комментарий газете Столица [про эстонскую политику](http://stolitsa.ee/225702) 
 * Комментарий порталу Спутник [про смену криптографических ключей](https://ee.sputniknews.ru/society/20180919/12762827/saity-estonia-zavisnutj-globaljnogo-obnovlenija-kriptokljuchej.html) 
