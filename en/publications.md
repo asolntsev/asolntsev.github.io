@@ -6,6 +6,11 @@ category: en
 
 My publications:
 
+# 2019
+* * *
+
+* Article on DZone portal: [WTF Connection Pools](http://dzone.com/articles/jvm-advent-calendar-connection-pools)
+
 # 2018
 * * *
 

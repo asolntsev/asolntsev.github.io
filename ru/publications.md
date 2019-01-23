@@ -6,6 +6,11 @@ category: ru
 
 Мои публикации на различных ресурсах
 
+# 2019
+* * *
+
+* Статья на портале DZone: [WTF Connection Pools](http://dzone.com/articles/jvm-advent-calendar-connection-pools)
+
 # 2018
 * * *
 
