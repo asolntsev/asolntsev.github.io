@@ -24,6 +24,10 @@ category: ru
 # 2017
 * * *
 
+* "Вы замечали, с чего начинается любая пьянка?”, или Зачем программисту уметь хорошо говорить
+  * [урезанное интервью порталу Delfi](http://rus.delfi.ee/daily/tedxlasnamae/vy-zamechali-s-chego-nachinaetsya-lyubaya-pyanka-ili-zachem-programmistu-umet-horosho-govorit?id=77493874)
+  * [оригинальный текст](https://asolntsev.livejournal.com/tag/%D0%B7%D0%B0%20%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C)
+
 * Статья про нестабильные тесты в Java Advent Calendar: 
  [часть 1](https://www.javaadvent.com/2017/12/flaky-tests.html), 
  [часть 2](https://www.javaadvent.com/2017/12/flaky-tests-2.html)
