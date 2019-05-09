@@ -9,6 +9,7 @@ category: ru
 # 2019
 * * *
 
+* [Flaky tests. Часть 2](https://www.youtube.com/watch?v=elQ2LGGU2bg) - devclub.eu, Таллинн, 30.04.2019
 * Моё интервью [про TDD, парное программирование, Selenide и смысл жизни](https://www.youtube.com/watch?v=4k-4kFMHsg0) - Таллинн, 28.02.2019
 
 # 2018
