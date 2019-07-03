@@ -9,8 +9,10 @@ category: ru
 # 2019
 * * *
 
+* [Антистатик](https://www.youtube.com/watch?v=4JJNccWtdNI) - devclub.eu, Таллинн, 27.06.2019  ([слайды](https://docs.google.com/presentation/d/1Di9M2F95NSxLH_GNW9azO7e2kFH7MknH_V7wVraIXME/edit?usp=sharing))
 * [Flaky tests. Часть 2](https://www.youtube.com/watch?v=elQ2LGGU2bg) - devclub.eu, Таллинн, 30.04.2019
 * Моё интервью [про TDD, парное программирование, Selenide и смысл жизни](https://www.youtube.com/watch?v=4k-4kFMHsg0) - Таллинн, 28.02.2019
+* [Flaky tests 2.0](https://www.youtube.com/watch?v=ibx8nVvt-Js) - DelEx, Минск, февраль 2019
 
 # 2018
 * * *
