@@ -9,6 +9,7 @@ category: ru
 # 2019
 * * *
 
+* Я в подкасте "Паша + Слава": [Эпиздод 33. Экстремальный](https://it.asm0dey.ru/podcast/xp/) <br/> про TDD, парное программирование, Codeborne. Развенчиваем типичные страхи.  
 * Статья на портале DZone: [WTF Connection Pools](http://dzone.com/articles/jvm-advent-calendar-connection-pools)
 
 # 2018
