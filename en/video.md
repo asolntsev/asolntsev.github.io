@@ -6,6 +6,12 @@ category: en
 
 Below is a full list of my talks at conferences and user groups _in english_. There is much more [videos in russian](/ru/video/).
 
+# 2019
+* * *
+
+* [Antistatic](https://www.youtube.com/watch?v=dFQSOlOOoXE&list=PLfazdZ9SzB9eDJIugtfH7KeVLLAP1pDLh) - [DevClub.ee](https://devclub.ee), Tallinn, 23.07.2019
+  ([slides](https://docs.google.com/presentation/d/1TYVMr9f2bX-lx5wpLiswgqQwg3II6HF2JJwlfUubOQY/edit?usp=sharing))
+
 # 2018
 * * *
 
