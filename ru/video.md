@@ -10,6 +10,8 @@ category: ru
 * * *
 
 * [10 причин моей ненависти](https://www.youtube.com/watch?v=U6z2dK7MwmI) - devclub.eu, Таллинн, 24.09.2019  ([слайды](https://docs.google.com/presentation/d/1Mt-MC0Ztil5F1gOwANwKJx446FVyQXTMRNLQSUdCakI/edit?usp=sharing))
+* [Selenide для профи](https://www.youtube.com/watch?v=be_cTwayRQc) - QA Fest, Киев, 21.09.2019  ([слайды](https://docs.google.com/presentation/d/12QyckKPmhrSuh8bup895gm9o7TGtoUpEbqF59PI4sTo/edit?usp=sharing))
+* [10 причин моей ненависти](https://www.youtube.com/watch?v=pln38fIbYqA&t=226s) - QA Fest, Киев, 20.09.2019  ([слайды](https://docs.google.com/presentation/d/1Mt-MC0Ztil5F1gOwANwKJx446FVyQXTMRNLQSUdCakI/edit?usp=sharing))
 * [Антистатик](https://www.youtube.com/watch?v=4JJNccWtdNI) - devclub.eu, Таллинн, 27.06.2019  ([слайды](https://docs.google.com/presentation/d/1Di9M2F95NSxLH_GNW9azO7e2kFH7MknH_V7wVraIXME/edit?usp=sharing))
 * [Flaky tests. Часть 2](https://www.youtube.com/watch?v=elQ2LGGU2bg) - devclub.eu, Таллинн, 30.04.2019
 * Моё интервью [про TDD, парное программирование, Selenide и смысл жизни](https://www.youtube.com/watch?v=4k-4kFMHsg0) - Таллинн, 28.02.2019
