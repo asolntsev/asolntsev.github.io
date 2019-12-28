@@ -9,6 +9,7 @@ Below is a full list of my talks at conferences and user groups _in english_. Th
 # 2019
 * * *
 
+* [Threesome: Selenide for Web, Android and iOS](https://youtu.be/Y04rU7qV7Vg) - [Cyprus Quality Conference](https://qa.cyprusitforum.com/en), 25.10.2019  ([slides](https://docs.google.com/presentation/d/1hSCmjwvLCY4bKqSncffZfMOi1NmXIooJu5LIjxYN6hg/edit?usp=sharing))
 * [Antistatic](https://www.youtube.com/watch?v=dFQSOlOOoXE&list=PLfazdZ9SzB9eDJIugtfH7KeVLLAP1pDLh) - [DevClub.ee](https://devclub.ee), Tallinn, 23.07.2019
   ([slides](https://docs.google.com/presentation/d/1TYVMr9f2bX-lx5wpLiswgqQwg3II6HF2JJwlfUubOQY/edit?usp=sharing))
 
