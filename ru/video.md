@@ -9,6 +9,7 @@ category: ru
 # 2019
 * * *
 
+* Истории [про автобус, таможню, машину и школу](https://www.youtube.com/watch?v=uxakKlqJ1Ts) - Мероприятие ["Твой Выход"](https://www.facebook.com/tvoivyhod/), 14.11.2019, Таллинн
 * [Тройничок: Selenide для Web, Android и iOS](https://youtu.be/Y04rU7qV7Vg) - [Cyprus Quality Conference](https://qa.cyprusitforum.com/en), 25.10.2019  ([слайды](https://docs.google.com/presentation/d/1hSCmjwvLCY4bKqSncffZfMOi1NmXIooJu5LIjxYN6hg/edit?usp=sharing))
 * [10 причин моей ненависти](https://www.youtube.com/watch?v=U6z2dK7MwmI) - devclub.eu, Таллинн, 24.09.2019  ([слайды](https://docs.google.com/presentation/d/1Mt-MC0Ztil5F1gOwANwKJx446FVyQXTMRNLQSUdCakI/edit?usp=sharing))
 * [Selenide для профи](https://www.youtube.com/watch?v=be_cTwayRQc) - QA Fest, Киев, 21.09.2019  ([слайды](https://docs.google.com/presentation/d/12QyckKPmhrSuh8bup895gm9o7TGtoUpEbqF59PI4sTo/edit?usp=sharing))
