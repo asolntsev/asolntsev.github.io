@@ -16,6 +16,7 @@ Below is a full list of my talks at conferences and user groups _in english_. Th
 # 2018
 * * *
 
+* [Pair-programming demo](https://www.youtube.com/watch?v=5lNjDdGKEAY) - devclub.ee, Tallinn, 20.09.2018 Andrei Solntsev & Anton Keks
 * [Selenide: fall in love after 15 slides](https://www.youtube.com/watch?v=o6AEfW39f0Y) - [GeeCon](https://2018.geecon.org/schedule-day3/), Krakow, 11.05.2018
   ([slides](https://docs.google.com/presentation/d/1kuzqR8JGnVKIs2r0Bm83LdOfbZkSkoR93f1c8wd26ns/edit?usp=sharing))
 
