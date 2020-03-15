@@ -6,6 +6,13 @@ category: ru
 
 А это видео моих выступлений на различных конференциях.
 
+# 2020
+* * *
+
+* [Flaky tests: Метод.](https://seleniumcamp.com/talk/flaky-tests-method/) - Конференция [SeleniumCamp](https://seleniumcamp.com/materials/), Киев, 21.02.2020   ([слайды](https://docs.google.com/presentation/d/1k2eWe5Zb0KH1tOGI04Wnq37o2Nhf9DjCMTaxPuD14bY/edit?usp=sharing))
+* [BOF: прошлое и будущее Selenide](https://seleniumcamp.com/talk/bof-glorious-past-and-promising-future-of-selenide/) - [SeleniumCamp](https://seleniumcamp.com/materials/), Киев, 21.02.2020
+* [Тройничок: Selenide для Web, Android и iOS](https://seleniumcamp.com/talk/selenide-for-web-android-and-ios/) - [SeleniumCamp](https://seleniumcamp.com/materials/), Киев, 22.02.2020  ([слайды](https://docs.google.com/presentation/d/1rmfr7hj2R2ky0e57oNixW32_1ES8-VNL3xxTSRK4t14/edit?usp=sharing))
+
 # 2019
 * * *
 
@@ -108,7 +115,7 @@ category: ru
 * [Selenide](https://vimeo.com/78251994) - 18 июля, Рига, devclub.lv 
 * [Eclipse vs Intellij IDEA](http://2013.javapoint.ru/talks/11/) - 5 апреля, Санкт-Петербург, JPoint
 * [Test-driven web development with Selenide](http://seleniumcamp.com/archive/selenium-camp-2013/materials/tdd-with-selenide/) - 1 марта, Киев, SeleniumCamp
-* [Selenide: тестирование по-пацански](http://www.devclub.eu/2013/03/28/selenide-solntsev-gerasimov/) - 26 февраля, Таллинн, devclub.eu
+* [Selenide: тестирование по-пацански](https://www.youtube.com/watch?v=Y0-wSgjzteE&t=3s) - 26 февраля, Таллинн, devclub.eu
 
 # 2012
 * * *
@@ -123,7 +130,7 @@ category: ru
   * _"Church of agile" labaka prezentacija! :D Paldies_
 * [Церковь Святого Аджайла](https://www.youtube.com/watch?v=Qu8l84H32jI) - 22.05.2012, devclub.eu, Таллинн
   * Доклад #2 девклуба за 2012 год
-* [Open-source Codeborne: MobileID & Selenide](http://devclub.ee/lugu/andrei-solntsev/open-source-codeborne-andrei-solntsev-ja-anton-keks) - апрель 2012, devclub.ee, Таллинн
+* [Open-source Codeborne: MobileID & Selenide](https://www.youtube.com/watch?v=xrK4BJMkVJ4) - апрель 2012, devclub.ee, Таллинн
 
 # 2011
 * * *
