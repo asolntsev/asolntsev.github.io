@@ -6,6 +6,10 @@ category: en
 
 Below is a full list of my talks at conferences and user groups _in english_. There is much more [videos in russian](/ru/video/).
 
+# 2020
+* * *
+* Czech meetup [pro:TEST!](https://www.youtube.com/watch?v=1d-nKyeTH2Y) - almost 2 hours of Selenide demo with live coding and Q/A  ([slides](https://docs.google.com/presentation/d/1u6oNkRKDO2PMpmZPKzK2NuVC9eYxVni5EdtiMxsl3tc/edit?usp=sharing))
+
 # 2019
 * * *
 

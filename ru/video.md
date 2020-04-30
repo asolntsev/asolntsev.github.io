@@ -9,6 +9,7 @@ category: ru
 # 2020
 * * *
 
+* Чешский митап [pro:TEST!](https://www.youtube.com/watch?v=1d-nKyeTH2Y) - почти 2 часа знакомства с Селенидом с живым кодингом и вопросами телезрителей    ([слайды](https://docs.google.com/presentation/d/1u6oNkRKDO2PMpmZPKzK2NuVC9eYxVni5EdtiMxsl3tc/edit?usp=sharing))
 * [Flaky tests: Метод.](https://seleniumcamp.com/talk/flaky-tests-method/) - Конференция [SeleniumCamp](https://seleniumcamp.com/materials/), Киев, 21.02.2020   ([слайды](https://docs.google.com/presentation/d/1k2eWe5Zb0KH1tOGI04Wnq37o2Nhf9DjCMTaxPuD14bY/edit?usp=sharing))
 * [BOF: прошлое и будущее Selenide](https://seleniumcamp.com/talk/bof-glorious-past-and-promising-future-of-selenide/) - [SeleniumCamp](https://seleniumcamp.com/materials/), Киев, 21.02.2020
 * [Тройничок: Selenide для Web, Android и iOS](https://seleniumcamp.com/talk/selenide-for-web-android-and-ios/) - [SeleniumCamp](https://seleniumcamp.com/materials/), Киев, 22.02.2020  ([слайды](https://docs.google.com/presentation/d/1rmfr7hj2R2ky0e57oNixW32_1ES8-VNL3xxTSRK4t14/edit?usp=sharing))
