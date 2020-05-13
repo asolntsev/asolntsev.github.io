@@ -8,7 +8,8 @@ Below is a full list of my talks at conferences and user groups _in english_. Th
 
 # 2020
 * * *
-* Czech meetup [pro:TEST!](https://www.youtube.com/watch?v=1d-nKyeTH2Y) - almost 2 hours of Selenide demo with live coding and Q/A  ([slides](https://docs.google.com/presentation/d/1u6oNkRKDO2PMpmZPKzK2NuVC9eYxVni5EdtiMxsl3tc/edit?usp=sharing))
+* Slovak meetup [QA Meetup](https://www.youtube.com/watch?v=aFqZ6dbUJIw&feature=emb_logo) - 1.5 hours of Selenide demo "from BASIC to PRO", 12.05.2020   ([slides](https://docs.google.com/presentation/d/1wx5qMbvcM2LwhxSviO-F6DAWXY6o-CyXNSflzxbbbnc/edit?usp=sharing))
+* Czech meetup [pro:TEST!](https://www.youtube.com/watch?v=1d-nKyeTH2Y) - almost 2 hours of Selenide demo with live coding and Q/A,  28.04.2020  ([slides](https://docs.google.com/presentation/d/1u6oNkRKDO2PMpmZPKzK2NuVC9eYxVni5EdtiMxsl3tc/edit?usp=sharing))
 
 # 2019
 * * *
