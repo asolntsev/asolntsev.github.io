@@ -9,6 +9,7 @@ category: ru
 # 2020
 * * *
 
+* [Тяжелое утро с Heisenbug](https://meetup.jugru.org/qa-heisenbug-breakfast-2) - Интервью с Дарьей Манухиной и Всеволодом Брекеловым, 27.05.2020
 * Словацкий митап [QA Meetup](https://www.youtube.com/watch?v=aFqZ6dbUJIw&feature=emb_logo) - 1.5 часа знакомства с Эстонией и Селенидом "from BASIC to PRO", 12.05.2020   ([слайды](https://docs.google.com/presentation/d/1wx5qMbvcM2LwhxSviO-F6DAWXY6o-CyXNSflzxbbbnc/edit?usp=sharing))
 * Чешский митап [pro:TEST!](https://www.youtube.com/watch?v=1d-nKyeTH2Y) - почти 2 часа знакомства с Селенидом с живым кодингом и вопросами телезрителей,  28.04.2020    ([слайды](https://docs.google.com/presentation/d/1u6oNkRKDO2PMpmZPKzK2NuVC9eYxVni5EdtiMxsl3tc/edit?usp=sharing))
 * [Flaky tests: Метод.](https://seleniumcamp.com/talk/flaky-tests-method/) - Конференция [SeleniumCamp](https://seleniumcamp.com/materials/), Киев, 21.02.2020   ([слайды](https://docs.google.com/presentation/d/1k2eWe5Zb0KH1tOGI04Wnq37o2Nhf9DjCMTaxPuD14bY/edit?usp=sharing))
