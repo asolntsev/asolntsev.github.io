@@ -9,6 +9,8 @@ category: ru
 # 2020
 * * *
 
+* [Пиши UI-тесты как бог или про Selenide из первых рук](https://www.youtube.com/watch?v=pSA0mu40u54&list=PL7LkoU0BwMEdM-YvWCFP0B0g_pV9uPB6T&index=6) - конференция [QA ASP](http://qaasp.tech/andrei-solntsev), 16.10.2020
+  ([слайды](https://docs.google.com/presentation/d/1QCUj2eLuFKZp6h8x0jgYaVZfNWDEg4pR9eHIwEHcbnk/edit?usp=sharing))
 * [Flaky tests. Метод](https://www.youtube.com/watch?v=SSglWLW40Ac&t=14s&ab_channel=DEVCLUB.EU) - митап [devclub.eu](http://devclub.eu/), 31.08.2020
 * [Тяжелое утро с Heisenbug](https://meetup.jugru.org/qa-heisenbug-breakfast-2) - Интервью с Дарьей Манухиной и Всеволодом Брекеловым, 27.05.2020
 * Словацкий митап [QA Meetup](https://www.youtube.com/watch?v=aFqZ6dbUJIw&feature=emb_logo) - 1.5 часа знакомства с Эстонией и Селенидом "from BASIC to PRO", 12.05.2020   ([слайды](https://docs.google.com/presentation/d/1wx5qMbvcM2LwhxSviO-F6DAWXY6o-CyXNSflzxbbbnc/edit?usp=sharing))
