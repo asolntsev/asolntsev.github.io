@@ -6,6 +6,11 @@ category: en
 
 My publications:
 
+# 2020
+* * *
+
+* Post in Java Advent Calendar: [How to debug dependency conflicts in maven and gradle](https://www.javaadvent.com/2020/12/how-to-debug-dependency-conflicts-in-maven-and-gradle.html) - 02.12.2020
+
 # 2019
 * * *
 
