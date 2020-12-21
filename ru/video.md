@@ -9,6 +9,10 @@ category: ru
 # 2020
 * * *
 
+* Воркшоп [Как начать свой проект автоматизации с нуля](https://heisenbug-moscow.ru/en/2020/msk/talks/1dfbw9xjdsvzf5rnwh4p4l/) - конференция Гейзенбаг, 4.11.2020  
+  [часть 1](https://www.youtube.com/watch?v=1aq4gYflEho&feature=youtu.be&utm_campaign=Heisenbug_2020_Piter_Announce_NoParticipants_211220&utm_medium=email&utm_source=newsletter&ab_channel=Heisenbug) | 
+  [часть 2](https://www.youtube.com/watch?utm_campaign=Heisenbug_2020_Piter_Announce_NoParticipants_211220&utm_medium=email&utm_source=newsletter&v=pbvJ8rmh7Ws&feature=youtu.be&ab_channel=Heisenbug) |
+  [слайды](https://docs.google.com/presentation/d/1GWX6MYA8SzUP1VJzysfPE52GX66iGmX5F8xaj63LDKo/edit?usp=sharing)
 * [Пиши UI-тесты как бог или про Selenide из первых рук](https://www.youtube.com/watch?v=pSA0mu40u54&list=PL7LkoU0BwMEdM-YvWCFP0B0g_pV9uPB6T&index=6) - конференция [QA ASP](http://qaasp.tech/andrei-solntsev), 16.10.2020
   ([слайды](https://docs.google.com/presentation/d/1QCUj2eLuFKZp6h8x0jgYaVZfNWDEg4pR9eHIwEHcbnk/edit?usp=sharing))
 * [Flaky tests. Метод](https://www.youtube.com/watch?v=SSglWLW40Ac&t=14s&ab_channel=DEVCLUB.EU) - митап [devclub.eu](http://devclub.eu/), 31.08.2020
