@@ -115,7 +115,7 @@ category: ru
 # 2014
 * * *
 
-* [Как получить чёрный пояс по программированию](https://www.youtube.com/watch?v=qBXgYDav40g) - devclub.eu, Таллинн
+* [Как получить чёрный пояс по программированию](https://www.youtube.com/watch?v=j_V6TZ3ZU6c) - devclub.eu, Таллинн
   | [слайды](https://www.slideshare.net/asolntsev/ss-219198438)
 * [The fast and the continuous](https://www.youtube.com/watch?v=bXlK680E3zQ) - 14-15 ноября 2014, SQA Days-16, Санкт-Петербург
   | [слайды](https://www.slideshare.net/asolntsev/the-fast-and-thecontinuous-sqa-days-16)
