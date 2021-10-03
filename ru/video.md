@@ -10,6 +10,7 @@ category: ru
 * * *
 
 * [Интервью для ютуб канал "Тестирование ПО"](https://www.youtube.com/watch?v=o_jAKaVzjyc) - Лёша Маршал, 4.09.2021
+* [WTF commit messages](https://www.youtube.com/watch?v=uBhpBOX8VYg) - devclub.eu, Таллинн, 27.05.2021
 * [Flaky tests. Метод](https://youtu.be/LDjDtR6kd2c) - конференция Гейзенбаг, 07.04.2021   [слайды](https://docs.google.com/presentation/d/1T0RhrpphTEfkWSkTyAbILbtA5OKq3l9kW-c9RVbVn8I/edit?usp=sharing)
 * [Воркшоп: Как начать свой проект автоматизации с нуля. Продолжение](https://heisenbug-piter.ru/2021/spb/talks/3tg2q9jq8nvldssitjuzvr/) - конференция Гейзенбаг, 08.04.2021 
   | [часть 1](https://www.youtube.com/watch?v=h254Tccxgq4&list=PLsVTVVvrKX9td9Zm_4nF6Ywlz6gC5_e7K&index=15&ab_channel=Heisenbug) 
