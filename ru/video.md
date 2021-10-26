@@ -9,6 +9,7 @@ category: ru
 # 2021
 * * *
 
+* Специальный выпуск [Heisenbug Show: 10 лет Selenide](https://www.youtube.com/watch?v=mK-6-k5EwQM) - jug.ru, 25.10.2021
 * [Стоит ли обновляться на Windows 11](https://etvpluss.err.ee/1608355595/kofe) - Эстонское телевидение, 14.10.2021, начиная с 13:22
 * [Интервью для ютуб канал "Тестирование ПО"](https://www.youtube.com/watch?v=o_jAKaVzjyc) - Лёша Маршал, 4.09.2021
 * [Koncerns: Почему я не тороплюсь на Котлин](https://www.youtube.com/watch?v=ch5sxsQJzW4) - devclub.eu, Таллинн, 29.07.2021
