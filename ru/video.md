@@ -114,11 +114,11 @@ category: ru
   | [слайды](https://www.slideshare.net/asolntsev/codefest-2015)
   <br>**Лучший доклад в секции QA**
 * [Анонс выступления на Codefest](https://www.youtube.com/watch?v=1ErjcjnTjBw) - CodeFest 2015, Новосибирск, Россия
-* [Good test = simple test](http://seleniumcamp.com/materials/good-short-test/) - SeleniumCamp 2015, Киев, Украина
+* [Bullshit driven development](http://seleniumcamp.com/materials/bullshit-driven-development/) - 28 февраля 2015, SeleniumCamp, Киев, Украина
+  | [слайды](https://docs.google.com/presentation/d/1i7hcfixLUynsTLlTRr_P1Gt_Gi7rDVsjYt-X_zPEPKo/edit?usp=sharing)
+* [Good test = simple test](http://seleniumcamp.com/materials/good-short-test/) - 27 февраля 2015, SeleniumCamp, Киев, Украина
   | [слайды](https://docs.google.com/presentation/d/1m4LLaNKLU7cr8s_qef41rTTOKwoOwPSrZ25S0cyL1bA/edit?usp=sharing)
   <br>**лучший доклад конференции**
-* [Bullshit driven development](http://seleniumcamp.com/materials/bullshit-driven-development/) - SeleniumCamp 2015, Киев, Украина
-  | [слайды](https://docs.google.com/presentation/d/1i7hcfixLUynsTLlTRr_P1Gt_Gi7rDVsjYt-X_zPEPKo/edit?usp=sharing)
 * [Пацан накодил — пацан протестил!](https://www.youtube.com/watch?v=8u6_hctdhqI&feature=youtu.be&a) - jug.ru, Санкт-Петербург
   | [слайды](https://docs.google.com/presentation/d/1be1GEw0xuQitYK49SA3AUzbEcskdi6lDdNBpKE6nhKg/edit?usp=sharing)
 
@@ -133,8 +133,8 @@ category: ru
   | [слайды](https://www.slideshare.net/asolntsev/ss-219199812)
 * [Про агильную разработку базы данных](https://www.youtube.com/watch?v=A3XoEp_3V88) - май 2014, devclub.eu, Таллинн
 * [Обмену подлежит](https://www.youtube.com/watch?v=UL8xGs6DjNo) - TEDxLasnamae 2014, Таллинн 
-* [Selenide: from developers with love](http://seleniumcamp.com/archive/selenium-camp-2014/materials/selenide/) - SeleniumCamp 2014, Киев, Украина
-* [The fast and the continuous](http://seleniumcamp.com/archive/selenium-camp-2014/materials/the-fast-and-continuous/) + [видео](https://www.youtube.com/watch?v=BYr-HNus90I&list=PL4Xdj6CMk6HRXMORodq9QNK-UjSkkiypL) - SeleniumCamp 2014, Киев, Украина
+* [The fast and the continuous](http://seleniumcamp.com/archive/selenium-camp-2014/materials/the-fast-and-continuous/) + [видео](https://www.youtube.com/watch?v=BYr-HNus90I&list=PL4Xdj6CMk6HRXMORodq9QNK-UjSkkiypL) - 1 марта 2014, SeleniumCamp, Киев, Украина
+* [Selenide: from developers with love](http://seleniumcamp.com/archive/selenium-camp-2014/materials/selenide/) - 28 февраля 2014, SeleniumCamp 2014, Киев, Украина
 
 # 2013
 * * *
