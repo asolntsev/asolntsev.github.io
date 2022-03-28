@@ -25,6 +25,7 @@ category: ru
   | [часть 1](https://www.youtube.com/watch?v=h254Tccxgq4&list=PLsVTVVvrKX9td9Zm_4nF6Ywlz6gC5_e7K&index=15&ab_channel=Heisenbug) 
   | [часть 2](https://www.youtube.com/watch?v=WETyt87o_R4&list=PLsVTVVvrKX9td9Zm_4nF6Ywlz6gC5_e7K&index=16&t=3s&ab_channel=Heisenbug) 
   | [слайды](https://docs.google.com/presentation/d/1NJMBnajktIm4rBiYooFA3WJxWrLqOqDEY_BSd3p22yM/edit?usp=sharing)
+* Heisenbug Show [Круглый стол: junit-изация и assert-овщина](https://www.youtube.com/watch?v=w1ey2zjf3-s&t=1s&ab_channel=Heisenbug)  -  16.03.2021
 
 # 2020
 * * *
