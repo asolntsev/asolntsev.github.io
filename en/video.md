@@ -6,6 +6,10 @@ category: en
 
 Below is a full list of my talks at conferences and user groups _in english_. There is much more [videos in russian](/ru/video/).
 
+# 2021
+* * *
+* [Flaky tests](https://www.youtube.com/watch?v=2UvQT13rLes&ab_channel=DEVCLUBLV) - devclub.lv, Riga, 20.04.2021
+
 # 2020
 * * *
 * Slovak meetup [QA Meetup](https://www.youtube.com/watch?v=aFqZ6dbUJIw&feature=emb_logo) - 1.5 hours of Selenide demo "from BASIC to PRO", 12.05.2020   ([slides](https://docs.google.com/presentation/d/1wx5qMbvcM2LwhxSviO-F6DAWXY6o-CyXNSflzxbbbnc/edit?usp=sharing))

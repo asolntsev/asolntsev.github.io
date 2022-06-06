@@ -20,6 +20,7 @@ category: ru
 * [Интервью для ютуб канал "Тестирование ПО"](https://www.youtube.com/watch?v=o_jAKaVzjyc) - Лёша Маршал, 4.09.2021
 * [Koncerns: Почему я не тороплюсь на Котлин](https://www.youtube.com/watch?v=ch5sxsQJzW4) - devclub.eu, Таллинн, 29.07.2021
 * [WTF commit messages](https://www.youtube.com/watch?v=uBhpBOX8VYg) - devclub.eu, Таллинн, 27.05.2021 - **лучший доклад 2021 года devclub.eu!**
+* [Flaky tests на английском](https://www.youtube.com/watch?v=2UvQT13rLes&ab_channel=DEVCLUBLV) - devclub.lv, Riga, 20.04.2021
 * Мастер-класс "Парное программирование": [часть 1](https://www.youtube.com/watch?v=8K1apzz8Ml4), [часть 2](https://www.youtube.com/watch?v=Itm_KUGo8Ro) - конференция [JPoint](https://2021.jpoint.ru/2021/schedule/), 15.04.2021
 * [Flaky tests. Метод](https://youtu.be/LDjDtR6kd2c) - конференция Гейзенбаг, 07.04.2021   [слайды](https://docs.google.com/presentation/d/1T0RhrpphTEfkWSkTyAbILbtA5OKq3l9kW-c9RVbVn8I/edit?usp=sharing)
 * [Воркшоп: Как начать свой проект автоматизации с нуля. Продолжение](https://heisenbug-piter.ru/2021/spb/talks/3tg2q9jq8nvldssitjuzvr/) - конференция Гейзенбаг, 08.04.2021 
