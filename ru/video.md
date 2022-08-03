@@ -9,6 +9,7 @@ category: ru
 # 2022
 * * *
 
+* [Пацан накодил - пацан протестил (2022 edition)](https://www.youtube.com/watch?v=C8MIGAjgVqE&ab_channel=KVHigh-TechClub) - Career Day, Минск, 04.06.2022
 * [Плагины в Java-библиотеках](https://www.youtube.com/watch?v=iIIsZRHya-w&ab_channel=DEVCLUB.EU) - devclub.eu, 31.03.2022
 * онлайн митап [WTF Commit Messages](https://youtu.be/xbnx59viqNk) - jug.ru, 27.01.2022 / [сайт](https://jug.ru/2022/01/%d0%9e%d0%bd%d0%bb%d0%b0%d0%b9%d0%bd-27-%d1%8f%d0%bd%d0%b2%d0%b0%d1%80%d1%8f-%d0%92%d1%81%d1%82%d1%80%d0%b5%d1%87%d0%b0-%d1%81-%d0%90%d0%bd%d0%b4%d1%80%d0%b5%d0%b5%d0%bc-%d0%a1%d0%be%d0%bb%d0%bd/) / [слайды](https://docs.google.com/presentation/d/1VPjCzetQTL3DXUBod_jESMIpjbJOaEIhII3__ErnZlY/edit?usp=sharing)
 
