@@ -6,6 +6,11 @@ category: en
 
 Below is a full list of my talks at conferences and user groups _in english_. There is much more [videos in russian](/ru/video/).
 
+# 2022
+* * *
+* [Extending open-source libraries: Selenide & Selenium](https://www.youtube.com/watch?v=-KGtZoFVzr8&list=PL9Z-JgiTsOYRfoG_mcRBlTUIFPIknhQ6S) - Selenium Conf, 30.07.2022
+* [Flaky Tests](https://www.youtube.com/watch?v=-c5XT2v5gRY&ab_channel=DEVCLUB.EE) - devclub.ee, Tallinn, 05.07.2022
+
 # 2021
 * * *
 * [Flaky tests](https://www.youtube.com/watch?v=2UvQT13rLes&ab_channel=DEVCLUBLV) - devclub.lv, Riga, 20.04.2021
