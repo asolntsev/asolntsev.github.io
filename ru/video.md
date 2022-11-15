@@ -9,6 +9,7 @@ category: ru
 # 2022
 * * *
 
+* [WTF Thread Pools](https://www.youtube.com/watch?v=JKxzELiwO_o&ab_channel=DEVCLUB.EU) - devclub.eu, 27.10.2022
 * [Extending open-source libraries: Selenide & Selenium](https://www.youtube.com/watch?v=-KGtZoFVzr8&list=PL9Z-JgiTsOYRfoG_mcRBlTUIFPIknhQ6S) - Selenium Conf, 30.07.2022
 * [Про поездки на конференции в Киев](https://youtu.be/AOBEqZ0T51c) - "Твой выход", 23.07.2022, Таллинн
 * [Flaky Tests](https://www.youtube.com/watch?v=-c5XT2v5gRY&ab_channel=DEVCLUB.EE) - devclub.ee, Tallinn, 05.07.2022
