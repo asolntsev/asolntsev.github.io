@@ -9,6 +9,7 @@ category: ru
 # 2022
 * * *
 
+* [Как законтрибьютить в опенсорс, чтобы не сгореть со стыда](https://www.youtube.com/watch?v=VtX7IpCHMS8&ab_channel=DEVCLUB.EU) - devclub.eu, 27.10.2022
 * [WTF Thread Pools](https://www.youtube.com/watch?v=JKxzELiwO_o&ab_channel=DEVCLUB.EU) - devclub.eu, 27.10.2022
 * [Extending open-source libraries: Selenide & Selenium](https://www.youtube.com/watch?v=-KGtZoFVzr8&list=PL9Z-JgiTsOYRfoG_mcRBlTUIFPIknhQ6S) - Selenium Conf, 30.07.2022
 * [Про поездки на конференции в Киев](https://youtu.be/AOBEqZ0T51c) - "Твой выход", 23.07.2022, Таллинн
