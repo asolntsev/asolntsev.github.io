@@ -1,3 +1,5 @@
 _site
 .sass-cache
 .idea/workspace.xml
+.jekyll-metadata
+Gemfile.lock
