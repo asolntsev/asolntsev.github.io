@@ -6,6 +6,10 @@ category: en
 
 Below is a full list of my talks at conferences and user groups _in english_. There is much more [videos in russian](/ru/video/).
 
+# 2023
+* * *
+* [Selenide UI tests in java](https://www.youtube.com/watch?v=5qiuRoUcICs&t=48m02s) - Continuous Testing Meetup Berlin, 23.01.2023
+
 # 2022
 * * *
 * [Extending open-source libraries: Selenide & Selenium](https://www.youtube.com/watch?v=-KGtZoFVzr8&list=PL9Z-JgiTsOYRfoG_mcRBlTUIFPIknhQ6S) - Selenium Conf, 30.07.2022

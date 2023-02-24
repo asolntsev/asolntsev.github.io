@@ -6,6 +6,11 @@ category: ru
 
 А это видео моих выступлений на различных конференциях.
 
+# 2023
+* * *
+* [Selenide UI tests in java](https://www.youtube.com/watch?v=5qiuRoUcICs&t=48m02s) - Continuous Testing Meetup Berlin, 23.01.2023
+
+
 # 2022
 * * *
 
