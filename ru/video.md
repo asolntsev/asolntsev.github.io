@@ -8,14 +8,15 @@ category: ru
 
 # 2023
 * * *
+* [Flaky tests](https://www.youtube.com/watch?v=18J2_4a4Cl4&ab_channel=Jfokus) - JFokus, Stockholm, 08.02.2023 [слайды](https://docs.google.com/presentation/d/16ECKNjuSzDQ9KRwpbOE6bIEZmiEBDl8dbnUB_Lo5Gy8/edit)
 * [Selenide UI tests in java](https://www.youtube.com/watch?v=5qiuRoUcICs&t=48m02s) - Continuous Testing Meetup Berlin, 23.01.2023
 
 
 # 2022
 * * *
 
-* [Как законтрибьютить в опенсорс, чтобы не сгореть со стыда](https://www.youtube.com/watch?v=VtX7IpCHMS8&ab_channel=DEVCLUB.EU) - devclub.eu, 27.10.2022
-* [WTF Thread Pools](https://www.youtube.com/watch?v=JKxzELiwO_o&ab_channel=DEVCLUB.EU) - devclub.eu, 27.10.2022
+* [Как законтрибьютить в опенсорс, чтобы не сгореть со стыда](https://www.youtube.com/watch?v=VtX7IpCHMS8&ab_channel=DEVCLUB.EU) - 27.10.2022 **- лучший доклад 2022 года devclub.eu!**
+* [WTF Thread Pools](https://www.youtube.com/watch?v=JKxzELiwO_o&ab_channel=DEVCLUB.EU) - 27.10.2022 - 27.10.2022 **- лучший доклад 2022 года devclub.eu!**
 * [Extending open-source libraries: Selenide & Selenium](https://www.youtube.com/watch?v=-KGtZoFVzr8&list=PL9Z-JgiTsOYRfoG_mcRBlTUIFPIknhQ6S) - Selenium Conf, 30.07.2022
 * [Про поездки на конференции в Киев](https://youtu.be/AOBEqZ0T51c) - "Твой выход", 23.07.2022, Таллинн
 * [Flaky Tests](https://www.youtube.com/watch?v=-c5XT2v5gRY&ab_channel=DEVCLUB.EE) - devclub.ee, Tallinn, 05.07.2022
