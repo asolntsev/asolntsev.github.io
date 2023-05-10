@@ -15,6 +15,7 @@ category: ru
 # 2022
 * * *
 
+* [Думай как пиарщик](https://www.youtube.com/watch?v=jyPQzygMpoo&ab_channel=DEVCLUB.EU) - devclub.eu, Tallinn, 15.12.2022
 * [Как законтрибьютить в опенсорс, чтобы не сгореть со стыда](https://www.youtube.com/watch?v=VtX7IpCHMS8&ab_channel=DEVCLUB.EU) - 27.10.2022 **- лучший доклад 2022 года devclub.eu!**
 * [WTF Thread Pools](https://www.youtube.com/watch?v=JKxzELiwO_o&ab_channel=DEVCLUB.EU) - 27.10.2022 - 27.10.2022 **- лучший доклад 2022 года devclub.eu!**
 * [Extending open-source libraries: Selenide & Selenium](https://www.youtube.com/watch?v=-KGtZoFVzr8&list=PL9Z-JgiTsOYRfoG_mcRBlTUIFPIknhQ6S) - Selenium Conf, 30.07.2022
