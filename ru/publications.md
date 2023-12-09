@@ -9,6 +9,7 @@ category: ru
 # 2023
 * * *
 
+* Интервью [Итоги года в IT: жив ли эстонский тигр?](https://r4.err.ee/1609175834/podrobnosti/fb41fa1de722523eaff8a4fea06e257c) - Radio 4, 04.12.2023
 * Интервью [ЕС хочет ограничить искусственный интеллект](https://r4.err.ee/1608981707/es-hochet-ogranichit-iskusstvennyj-intellekt) - Radio 4, 18.05.2023
 
 # 2020

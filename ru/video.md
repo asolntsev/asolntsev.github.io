@@ -8,6 +8,7 @@ category: ru
 
 # 2023
 * * *
+* [16 место Эстонии в глобальном инновационном индексе](https://etvpluss.err.ee/1609189354/jestonija-zanjala-16-e-mesto-v-globalnom-innovacionnym-indekse) - Программа "Кофе+" 07.12.2023, Таллинн, ETV+
 * [Зона комфорки](https://www.youtube.com/watch?v=PGZHVTRp1J0&ab_channel=AndreiSolntsev) - "Твой выход" 22.04.2023, Таллинн
 * [Flaky tests](https://www.youtube.com/watch?v=18J2_4a4Cl4&ab_channel=Jfokus) - JFokus, Stockholm, 08.02.2023 [слайды](https://docs.google.com/presentation/d/16ECKNjuSzDQ9KRwpbOE6bIEZmiEBDl8dbnUB_Lo5Gy8/edit)
 * [Selenide UI tests in java](https://www.youtube.com/watch?v=5qiuRoUcICs&t=48m02s) - Continuous Testing Meetup Berlin, 23.01.2023
