@@ -6,6 +6,10 @@ category: ru
 
 А это видео моих выступлений на различных конференциях, ТВ и т.д.
 
+# 2024
+* * *
+* [Как дебажить автотесты](https://www.youtube.com/watch?v=4Kh5yppP8zY&ab_channel=DEVCLUB.EU) - devclub.eu, Таллинн, 30.01.2024
+
 # 2023
 * * *
 * [Почему у нас 7 нот?](https://youtu.be/0XziRDFSzZk?si=2sYK9r7x8TUeqvLB) - devclub.eu, Таллинн, 20.12.2023
