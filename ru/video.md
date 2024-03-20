@@ -8,6 +8,7 @@ category: ru
 
 # 2024
 * * *
+* [Болеть нельзя работать](https://etvpluss.err.ee/1609275395/svoja-pravda) - Программа "Своя правда" 18.03.2024, Таллинн, ETV+
 * [Предприятия уделяют мало внимания IT-безопасности?](https://etvpluss.err.ee/1609285725/predprijatija-udeljajut-malo-vnimanija-it-bezopasnosti) - Программа "Кофе+" 18.03.2024, Таллинн, ETV+
 * [Про мошенников в соцсетях](https://rus.err.ee/1609246692/solncev-pervyj-shag-moshennikov-v-socsetjah-naprositsja-v-druzja-vtoroj-poluchit-dengi) - Программа "Кофе+" 08.02.2024, Таллинн, ETV+
 * [Как дебажить автотесты](https://www.youtube.com/watch?v=4Kh5yppP8zY&ab_channel=DEVCLUB.EU) - devclub.eu, Таллинн, 30.01.2024
