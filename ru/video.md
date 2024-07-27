@@ -17,6 +17,7 @@ category: ru
 * * *
 * [Почему у нас 7 нот?](https://youtu.be/0XziRDFSzZk?si=2sYK9r7x8TUeqvLB) - devclub.eu, Таллинн, 20.12.2023
 * [16 место Эстонии в глобальном инновационном индексе](https://etvpluss.err.ee/1609189354/jestonija-zanjala-16-e-mesto-v-globalnom-innovacionnym-indekse) - Программа "Кофе+" 07.12.2023, Таллинн, ETV+
+* [How to debug autotests](https://www.youtube.com/watch?v=-TvVCxmb9ss&ab_channel=EpicHey) - [EpicHey conference](https://epichey.dev/#!/tab/656956927-1), 29.11.2023, Lisbon, Portugal
 * [Про долбодителей](https://youtu.be/RFBr65amtis&ab_channel=AndreiSolntsev) - "Твой выход" 20.07.2023, Таллинн
 * [Зона комфорки](https://www.youtube.com/watch?v=PGZHVTRp1J0&ab_channel=AndreiSolntsev) - "Твой выход" 22.04.2023, Таллинн
 * [Flaky tests](https://www.youtube.com/watch?v=18J2_4a4Cl4&ab_channel=Jfokus) - JFokus, Stockholm, 08.02.2023 [слайды](https://docs.google.com/presentation/d/16ECKNjuSzDQ9KRwpbOE6bIEZmiEBDl8dbnUB_Lo5Gy8/edit)

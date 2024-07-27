@@ -8,6 +8,7 @@ Below is a full list of my talks at conferences and user groups _in english_. Th
 
 # 2023
 * * *
+* [How to debug autotests](https://www.youtube.com/watch?v=-TvVCxmb9ss&ab_channel=EpicHey) - [EpicHey conference](https://epichey.dev/#!/tab/656956927-1), 29.11.2023, Lisbon, Portugal
 * [Flaky tests](https://www.youtube.com/watch?v=18J2_4a4Cl4&ab_channel=Jfokus) - JFokus, Stockholm, 08.02.2023 [slides](https://docs.google.com/presentation/d/16ECKNjuSzDQ9KRwpbOE6bIEZmiEBDl8dbnUB_Lo5Gy8/edit)
 * [Selenide UI tests in java](https://www.youtube.com/watch?v=5qiuRoUcICs&t=48m02s) - Continuous Testing Meetup Berlin, 23.01.2023
 
