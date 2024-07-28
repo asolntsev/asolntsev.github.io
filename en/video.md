@@ -6,6 +6,9 @@ category: en
 
 Below is a full list of my talks at conferences and user groups _in english_. There is much more [videos in russian](/ru/video/).
 
+# 2024
+* [WTF Commit messages](https://www.youtube.com/watch?v=j-wfc5LVxM4) - DevDays conference, 20.05.2024, Lithuania
+
 # 2023
 * * *
 * [How to debug autotests](https://www.youtube.com/watch?v=-TvVCxmb9ss&ab_channel=EpicHey) - [EpicHey conference](https://epichey.dev/#!/tab/656956927-1), 29.11.2023, Lisbon, Portugal
