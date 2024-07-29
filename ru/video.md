@@ -8,6 +8,7 @@ category: ru
 
 # 2024
 * * *
+* [How to migrate from Selenium to Selenide (for more stable tests)](https://www.youtube.com/watch?v=roL1ciaNWtY&list=PL9Z-JgiTsOYRJCXuEOGXLH1w1oImoprnq&ab_channel=ConfEngine) 21.06.2024, SeleniumConf
 * [WTF Commit messages](https://www.youtube.com/watch?v=j-wfc5LVxM4) - конференция DevDays, 20.05.2024, Литва
 * [Болеть нельзя работать](https://etvpluss.err.ee/1609275395/svoja-pravda) - Программа "Своя правда" 18.03.2024, Таллинн, ETV+
 * [Предприятия уделяют мало внимания IT-безопасности?](https://etvpluss.err.ee/1609285725/predprijatija-udeljajut-malo-vnimanija-it-bezopasnosti) - Программа "Кофе+" 18.03.2024, Таллинн, ETV+
