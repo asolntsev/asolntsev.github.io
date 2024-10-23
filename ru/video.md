@@ -8,6 +8,7 @@ category: ru
 
 # 2024
 * * *
+* [TDD: балласт или помощник?](https://www.youtube.com/watch?v=kEgaf7tketU&ab_channel=DEVCLUB.EU) devclub.eu, Таллинн, 02.10.2024
 * [Selenide: Enjoy Writing Automated Tests for Mobile & Web](https://www.youtube.com/watch?v=CKSl2NRrMVg) Testμ 2024 / LambdaTest, 21.08.2024
 * [Одноразовое изделие № 0000](https://www.youtube.com/watch?v=gBvc8VJGpVI&ab_channel=DEVCLUBEU) devclub.eu, Таллинн, 30.07.2024
 * [How to migrate from Selenium to Selenide (for more stable tests)](https://www.youtube.com/watch?v=roL1ciaNWtY&list=PL9Z-JgiTsOYRJCXuEOGXLH1w1oImoprnq&ab_channel=ConfEngine) 21.06.2024, SeleniumConf
