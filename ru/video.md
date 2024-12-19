@@ -20,7 +20,7 @@ category: ru
 
 # 2023
 * * *
-* [Почему у нас 7 нот?](https://youtu.be/0XziRDFSzZk?si=2sYK9r7x8TUeqvLB) - devclub.eu, Таллинн, 20.12.2023
+* [Почему у нас 7 нот?](https://youtu.be/0XziRDFSzZk?si=2sYK9r7x8TUeqvLB) - devclub.eu, Таллинн, 20.12.2023 **- лучший доклад года в devclub.eu!**
 * [16 место Эстонии в глобальном инновационном индексе](https://etvpluss.err.ee/1609189354/jestonija-zanjala-16-e-mesto-v-globalnom-innovacionnym-indekse) - Программа "Кофе+" 07.12.2023, Таллинн, ETV+
 * [How to debug autotests](https://www.youtube.com/watch?v=-TvVCxmb9ss&ab_channel=EpicHey) - [EpicHey conference](https://epichey.dev/#!/tab/656956927-1), 29.11.2023, Lisbon, Portugal
 * [Про долбодителей](https://youtu.be/RFBr65amtis&ab_channel=AndreiSolntsev) - "Твой выход" 20.07.2023, Таллинн
