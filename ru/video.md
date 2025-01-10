@@ -6,6 +6,10 @@ category: ru
 
 А это видео моих выступлений на различных конференциях, ТВ и т.д.
 
+# 2025
+* * *
+* [Зачем нужны дата-центры](https://jupiterpluss.err.ee/1609570999/zachem-nuzhny-data-centry) Программа "Кофе+" 09.01.2025, Таллинн, ETV+
+
 # 2024
 * * *
 * [Selenide: Enjoy Writing Automated Tests for Mobile & Web](https://www.youtube.com/watch?v=CKSl2NRrMVg) Testμ 2024 / LambdaTest, 21.08.2024
