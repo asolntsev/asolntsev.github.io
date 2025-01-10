@@ -6,6 +6,10 @@ category: ru
 
 А это видео моих выступлений на различных конференциях, ТВ и т.д.
 
+# 2025
+* * *
+* [Зачем нужны дата-центры](https://jupiterpluss.err.ee/1609570999/zachem-nuzhny-data-centry) Программа "Кофе+" 09.01.2025, Таллинн, ETV+
+
 # 2024
 * * *
 * [TDD: балласт или помощник?](https://www.youtube.com/watch?v=kEgaf7tketU&ab_channel=DEVCLUB.EU) devclub.eu, Таллинн, 02.10.2024
