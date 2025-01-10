@@ -12,6 +12,7 @@ category: ru
 
 # 2024
 * * *
+* [Test Driven Development — колёса разработки](https://www.youtube.com/watch?v=8nkw_JmZ8as&ab_channel=KolesaGroup) Kolesa Conf`24, 18.10.2024, Алматы, Казахстан
 * [TDD: балласт или помощник?](https://www.youtube.com/watch?v=kEgaf7tketU&ab_channel=DEVCLUB.EU) devclub.eu, Таллинн, 02.10.2024
 * [Selenide: Enjoy Writing Automated Tests for Mobile & Web](https://www.youtube.com/watch?v=CKSl2NRrMVg) Testμ 2024 / LambdaTest, 21.08.2024
 * [Одноразовое изделие № 0000](https://www.youtube.com/watch?v=gBvc8VJGpVI&ab_channel=DEVCLUBEU) devclub.eu, Таллинн, 30.07.2024
