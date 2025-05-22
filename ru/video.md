@@ -8,6 +8,7 @@ category: ru
 
 # 2025
 * * *
+* [Пароли взламываются за секунду](https://jupiterpluss.err.ee/1609700535/pochti-80-populjarnyh-parolej-vzlamyvajutsja-za-sekundu) Программа "Кофе+" 20.05.2025, Таллинн, ETV+
 * [Зачем нужны дата-центры](https://jupiterpluss.err.ee/1609570999/zachem-nuzhny-data-centry) Программа "Кофе+" 09.01.2025, Таллинн, ETV+
 
 # 2024
