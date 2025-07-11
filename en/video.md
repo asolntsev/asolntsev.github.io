@@ -6,6 +6,9 @@ category: en
 
 Below is a full list of my talks at conferences and user groups _in english_. There is much more [videos in russian](/ru/video/).
 
+# 2025
+* [Why do we have 7 notes?](https://www.youtube.com/watch?v=dhqhHm5rc3A&ab_channel=DEVCLUB.EE) DevClub.ee, Tallinn, 30.06.2025
+
 # 2024
 * [Selenide: Enjoy Writing Automated Tests for Mobile & Web](https://www.youtube.com/watch?v=CKSl2NRrMVg) Testμ 2024 / LambdaTest, 21.08.2024
 * [How to migrate from Selenium to Selenide (for more stable tests)](https://www.youtube.com/watch?v=roL1ciaNWtY&list=PL9Z-JgiTsOYRJCXuEOGXLH1w1oImoprnq&ab_channel=ConfEngine) 21.06.2024, SeleniumConf
