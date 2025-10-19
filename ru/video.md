@@ -14,6 +14,7 @@ category: ru
 
 # 2024
 * * *
+* [Selenide: Easy Automated Rests for Mobile & Web in Java](https://www.youtube.com/watch?v=p5VY6XtIIdM&list=PLqYhGsQ9iSErTx_MP5G8eSLzrq3h9aiVF) TestCon Europe, 25.10.2024
 * [Test Driven Development — колёса разработки](https://www.youtube.com/watch?v=8nkw_JmZ8as&ab_channel=KolesaGroup) Kolesa Conf`24, 18.10.2024, Алматы, Казахстан
 * [TDD: балласт или помощник?](https://www.youtube.com/watch?v=kEgaf7tketU&ab_channel=DEVCLUB.EU) devclub.eu, Таллинн, 02.10.2024
 * [Selenide: Enjoy Writing Automated Tests for Mobile & Web](https://www.youtube.com/watch?v=CKSl2NRrMVg) Testμ 2024 / LambdaTest, 21.08.2024

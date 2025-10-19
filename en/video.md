@@ -10,6 +10,7 @@ Below is a full list of my talks at conferences and user groups _in english_. Th
 * [Why do we have 7 notes?](https://www.youtube.com/watch?v=dhqhHm5rc3A&ab_channel=DEVCLUB.EE) DevClub.ee, Tallinn, 30.06.2025
 
 # 2024
+* [Selenide: Easy Automated Rests for Mobile & Web in Java](https://www.youtube.com/watch?v=p5VY6XtIIdM&list=PLqYhGsQ9iSErTx_MP5G8eSLzrq3h9aiVF) TestCon Europe, 25.10.2024
 * [Selenide: Enjoy Writing Automated Tests for Mobile & Web](https://www.youtube.com/watch?v=CKSl2NRrMVg) Testμ 2024 / LambdaTest, 21.08.2024
 * [How to migrate from Selenium to Selenide (for more stable tests)](https://www.youtube.com/watch?v=roL1ciaNWtY&list=PL9Z-JgiTsOYRJCXuEOGXLH1w1oImoprnq&ab_channel=ConfEngine) 21.06.2024, SeleniumConf
 * [WTF Commit messages](https://www.youtube.com/watch?v=j-wfc5LVxM4) - DevDays conference, 20.05.2024, Lithuania
