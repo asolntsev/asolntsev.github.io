@@ -6,6 +6,10 @@ category: ru
 
 А это видео моих выступлений на различных конференциях, ТВ и т.д.
 
+# 2026
+* * *
+* [В Эстонии хотят построить крупнейший в Балтии дата-центр](https://jupiterpluss.err.ee/1609970048/v-jestonii-hotjat-postroit-krupnejshij-v-baltii-data-centr) Программа "Кофе+" 17.03.2026, Таллинн, ETV+
+
 # 2025
 * * *
 * [Масштабная утечка паролей Google: правда или фейк](https://jupiterpluss.err.ee/1609849032/masshtabnaja-utechka-parolej-google-pravda-ili-fejk) Программа "Кофе+" 05.11.2025, Таллинн, ETV+
