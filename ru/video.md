@@ -9,6 +9,7 @@ category: ru
 # 2026
 * * *
 * [В Эстонии хотят построить крупнейший в Балтии дата-центр](https://jupiterpluss.err.ee/1609970048/v-jestonii-hotjat-postroit-krupnejshij-v-baltii-data-centr) Программа "Кофе+" 17.03.2026, Таллинн, ETV+
+* [Flaky unit-tests](https://www.youtube.com/watch?v=qwfKHfSAqyk) DevClub.ee, Tallinn, 04.03.2026
 
 # 2025
 * * *

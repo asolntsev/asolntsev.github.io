@@ -6,6 +6,9 @@ category: en
 
 Below is a full list of my talks at conferences and user groups _in english_. There is much more [videos in russian](/ru/video/).
 
+# 2026
+* [Flaky unit-tests](https://www.youtube.com/watch?v=qwfKHfSAqyk) DevClub.ee, Tallinn, 04.03.2026
+
 # 2025
 * [Why do we have 7 notes?](https://www.youtube.com/watch?v=dhqhHm5rc3A&ab_channel=DEVCLUB.EE) DevClub.ee, Tallinn, 30.06.2025
 
