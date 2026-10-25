@@ -18,11 +18,11 @@ examples of using Selenide to test applications built with different frameworks
 
 a reference web application demonstrating automated tests (both unit and UI), an in-memory database for tests and demo mode, LiquiBase for database migrations, etc.
 
-## [pdf-test](https://github.com/codeborne/pdf-test)
+## [pdf-test](https://github.com/java-testkit/pdf-test)
 
 a library for testing PDF content
 
-## [xls-test](https://github.com/codeborne/xls-test)
+## [xls-test](https://github.com/java-testkit/xls-test)
 
 a library for testing XLS content
 

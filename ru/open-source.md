@@ -20,11 +20,11 @@ category: ru
 in-memory базой данных для тестов и демо-режима,
 LiquiBase для миграций базы данных и т.д.
 
-## [pdf-test](https://github.com/codeborne/pdf-test)
+## [pdf-test](https://github.com/java-testkit/pdf-test)
 
 библиотека для тестирования содержимого PDF файлов
 
-## [xls-test](https://github.com/codeborne/xls-test)
+## [xls-test](https://github.com/java-testkit/xls-test)
 
 библиотека для тестирования содержимого XLS файлов
 
