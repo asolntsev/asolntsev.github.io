@@ -4,7 +4,7 @@ title: Publications
 category: en
 ---
 
-My publications:
+Articles, blog posts and interviews published outside this blog.
 
 # 2020
 * * *

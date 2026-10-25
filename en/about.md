@@ -5,21 +5,18 @@ category: en
 class: about
 ---
 
-Hi there! 
+I'm Andrei Solntsev, a software developer and the creator of [Selenide](http://selenide.org), along with several [other open-source projects](/open-source/).
+I speak regularly at conferences and meetups — recordings are collected on the [video](/video/) page.
 
-I am Andrei Solntsev, software developer, author of open-source project [Selenide](http://selenide.org) and [others](/open-source/).
+Topics I write about:
 
-Also you can find all videos of [my talks at conferences](/video/).
+* software craftsmanship
+* TDD
+* Java
+* web development
+* open source
+* conferences
 
-This blog is mainly about:
-
-* software craftsmanship,
-* TDD, 
-* Java,
-* web development, 
-* open-source,
-* conferences.
-
-Enjoy reading, and feel free to comment!
+Comments and discussion are welcome.
 
 {% include links.html %}

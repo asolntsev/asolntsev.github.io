@@ -4,21 +4,19 @@ title: Open source
 category: en
 ---
 
-I am proud to be a member of open-source community. I believe we make the world better by contributing to open-source.
-
-These are my open-source projects I am proud of:
+Open source is a large part of my work. Below are the projects I created or maintain.
 
 ## [Selenide](http://selenide.org)
 
-a library for writing concice and stable UI tests in Java
+a library for writing concise and stable UI tests in Java
 
 ## [Selenide examples](https://github.com/selenide-examples)
 
-a set of examples of using Selenide for testing different applications
+examples of using Selenide to test applications built with different frameworks
 
 ## [Hangman](https://github.com/selenide-examples/hangman)
 
-an ideal reference web application using automated tests, in-memory database for testing and demo, LiquiBase for initializing DB structure etc.
+a reference web application demonstrating automated tests (both unit and UI), an in-memory database for tests and demo mode, LiquiBase for database migrations, etc.
 
 ## [pdf-test](https://github.com/codeborne/pdf-test)
 
@@ -30,8 +28,8 @@ a library for testing XLS content
 
 ## [geo-ip](https://github.com/codeborne/geoip)
 
-Geo IP lookup service
+a Geo IP lookup service
 
 ## [mobile-id](https://github.com/codeborne/mobileid)
 
-Java Mobile-ID interface for Estonia/Lithuania
+a Java client for the Mobile-ID authentication service (Estonia, Lithuania)
