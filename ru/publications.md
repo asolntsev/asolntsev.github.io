@@ -6,11 +6,18 @@ category: ru
 
 Статьи, интервью и комментарии, опубликованные за пределами этого блога.
 
+# 2026
+* * *
+
+* Интервью [Что общего между Chrome и государством?](https://eestiraadio.err.ee/ru/raadio4/1610129144/v-internete-skazali-privatnost/saatest) - Radio 4, 15.09.2026
+* Интервью [Как не разучиться думать самостоятельно в эпоху ИИ?](https://eestiraadio.err.ee/raadio4/1610001214/kak-ne-razuchitsja-dumat-samostojatelno-v-jepohu-ii/saatest) - Radio 4, 20.04.2026
+
+
 # 2023
 * * *
 
 * Интервью [Итоги года в IT: жив ли эстонский тигр?](https://r4.err.ee/1609175834/podrobnosti/fb41fa1de722523eaff8a4fea06e257c) - Radio 4, 04.12.2023
-* Интервью [ЕС хочет ограничить искусственный интеллект](https://r4.err.ee/1608981707/es-hochet-ogranichit-iskusstvennyj-intellekt) - Radio 4, 18.05.2023
+* Интервью [ЕС хочет ограничить искусственный интеллект](https://eestiraadio.err.ee/ru/raadio4/1608981707/es-hochet-ogranichit-iskusstvennyj-intellekt/saatest) - Radio 4, 18.05.2023
 
 # 2020
 * * *
