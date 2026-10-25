@@ -28,10 +28,18 @@ LiquiBase для миграций базы данных и т.д.
 
 библиотека для тестирования содержимого XLS файлов
 
-## [geo-ip](https://github.com/codeborne/geoip)
+## [Flying Saucer](https://github.com/flyingsaucerproject/flyingsaucer)
 
-сервис для определения местоположения по IP-адресу
+Java-библиотека для генерации PDF из XHTML и CSS
 
-## [mobile-id](https://github.com/codeborne/mobileid)
+## [LittleProxy](https://github.com/LittleProxy/LittleProxy)
 
-Java-клиент для сервиса аутентификации Mobile-ID (Эстония, Литва).
+высокопроизводительный HTTP-прокси на Java поверх Netty
+
+## [Datafaker](https://github.com/datafaker-net/datafaker)
+
+Java-библиотека для генерации фейковых данных для тестов
+
+## [RePlay](https://github.com/replay-framework/replay)
+
+форк веб-фреймворка Play 1

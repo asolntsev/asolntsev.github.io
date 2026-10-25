@@ -26,10 +26,18 @@ a library for testing PDF content
 
 a library for testing XLS content
 
-## [geo-ip](https://github.com/codeborne/geoip)
+## [Flying Saucer](https://github.com/flyingsaucerproject/flyingsaucer)
 
-a Geo IP lookup service
+a Java library for rendering XHTML and CSS to PDF
 
-## [mobile-id](https://github.com/codeborne/mobileid)
+## [LittleProxy](https://github.com/LittleProxy/LittleProxy)
 
-a Java client for the Mobile-ID authentication service (Estonia, Lithuania)
+a high-performance HTTP proxy written in Java on top of Netty
+
+## [Datafaker](https://github.com/datafaker-net/datafaker)
+
+a Java library for generating fake data for tests
+
+## [RePlay](https://github.com/replay-framework/replay)
+
+a fork of the Play 1 web framework
