@@ -8,6 +8,7 @@ category: ru
 
 # 2026
 * * *
+* [Наследование цифрового имущества](https://rus.postimees.ee/8570124/paroli-foto-kriptovalyuta-kak-proishodit-nasledovanie-cifrovogo-imushchestva-i-chto-dostanetsya-vashim-blizkim) Программа "На кухне" 26.10.2026, Таллинн, Postimees
 * [Продлённая поддержка Windows 10](https://jupiter.err.ee/1610172283/pochemu-vazhno-obnovljat-operacionnye-sistemy-i-programmy) Программа "Кофе+" 21.10.2026, Таллинн, ETV+
 * [Спутниковый интернет Starlink](https://jupiterpluss.err.ee/1610015752/v-jestoniju-prishel-sputnikovyj-internet-starlink) Программа "Кофе+" 06.05.2026, Таллинн, ETV+
 * [В Эстонии хотят построить крупнейший в Балтии дата-центр](https://jupiterpluss.err.ee/1609970048/v-jestonii-hotjat-postroit-krupnejshij-v-baltii-data-centr) Программа "Кофе+" 17.03.2026, Таллинн, ETV+
