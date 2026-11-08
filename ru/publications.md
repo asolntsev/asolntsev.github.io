@@ -9,6 +9,8 @@ category: ru
 # 2026
 * * *
 
+* Интервью [Холодильники под угрозой](https://rus.err.ee/1610189776/holodilniki-pod-ugrozoj-ii-na-storone-hakerov-naskolko-zawiwena-jestonija-ot-kiberatak) - "Актуальная Камера", ETV, 09.11.2026
+* Интервью [Зачем хакеры взламывают холодильники](https://jupiterpluss.err.ee/1610185960/kak-i-zachem-hakery-vzlamyvajut-holodilniki) - "Кофе+", ETV, 04.11.2026
 * Интервью [Что общего между Chrome и государством?](https://eestiraadio.err.ee/ru/raadio4/1610129144/v-internete-skazali-privatnost/saatest) - Radio 4, 15.09.2026
 * Интервью [Как не разучиться думать самостоятельно в эпоху ИИ?](https://eestiraadio.err.ee/raadio4/1610001214/kak-ne-razuchitsja-dumat-samostojatelno-v-jepohu-ii/saatest) - Radio 4, 20.04.2026
 
